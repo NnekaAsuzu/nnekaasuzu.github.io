@@ -18,19 +18,23 @@ I am a data scientist specializing in AI and Prompt Engineering, with a backgrou
   - **Description:** Fine-tuned a question-answering model from HuggingFace and built a Gradio interface for easy interaction.
 
 - **And More...**
-  - Add any additional projects here.
+
 
 ## Education
 
 - **Masters of Science (MSc)** in Management and Systems, specializing in Database Technologies
   - New York University, New York
 
+
 ## Professional Development
 
 - Certification in Artificial Intelligence with Prompt Engineering, BusyQA
+- Certification in Data Analytics with Python - Ontario Tech Talent Inc, Ontario Tech University
 - Certification of Completion, FinTech Upskilling Course: Machine Learning Model (MANIFESTO OF SOFTWARE CRAFTSMANSHIP), LightHouse Labs
 - Certification of Completion, Data Science Training, Skyline IT Tech
 - Certification in Introduction to Data Science, CISCO Networking Academy
+
+
 
 ## Key Skills & Proficiencies
 
