@@ -1,38 +1,39 @@
 # About Me
+I am a Data Scientist specializing in AI and Prompt Engineering, with a strong background in Management and Systems. I hold a Master of Science (MSc) degree from New York University, where I specialized in Database Technologies, Data Analytics, and IT Security. With over 5 years of experience, I’ve applied machine learning, NLP, cloud computing, and advanced analytics to solve complex business challenges in industries such as finance, marketing, customer experience, and digital consulting. My approach combines technical expertise with business acumen to deliver solutions that are both innovative and actionable. I'm passionate about building intelligent systems using Large Language Models and Hugging Face Transformers, and I'm experienced in deploying models with tools like Streamlit, Gradio, Azure ML, and Power BI. I thrive in Agile environments and enjoy turning data into meaningful outcomes.
 
-I am a data scientist specializing in AI and Prompt Engineering, with a background in Management and Systems. I hold a Master of Science (MSc) degree from New York University, where I focused on Database Technologies. I have completed professional development certifications in Artificial Intelligence and Machine Learning from BusyQA and LightHouse Labs, among others. My passion lies in using cutting-edge techniques such as Large Language Models and Hugging Face Transformers to address real-world challenges. I have experience in Natural Language Processing (NLP) and Deep Learning methodologies, and I am skilled in Python, SQL, and various machine learning libraries and tools. I am dedicated to continuous learning and finding innovative solutions through data analysis.
+## 🚀 Projects
 
-## Projects
+ **💬 Memory Support Chatbot for Pregnant Women:**
+  - **Overview:** Developed a GPT-2-based chatbot to assist pregnant women experiencing cognitive memory issues.
+  - **Deployment:**  Streamlit and Gradio.
 
-- **Memory Support Chatbot for Pregnant Women:**
-  - **Overview:** This project aims to develop a Memory Support Chatbot for Pregnant Women using the GPT-2 language model. The chatbot will provide support and information to pregnant women experiencing cognitive memory issues during pregnancy.
-  - **Deployment:** Deployed on both Streamlit and Gradio.
+**🏡 Housing Prediction:**
+  - **Description:** Built a Random Forest regression model with EDA and feature engineering to predict home prices with high accuracy.
 
-- **Housing Prediction:**
-  - **Description:** Developed a model to predict housing prices using EDA and machine learning techniques.
+**🍽️ Food Choices Analysis:**
+  - **Description:** Analyzed student food preferences and dietary trends using Python and deployed an interactive dashboard via Streamlit.
 
-- **Food Choices Analysis:**
-  - **Description:** Analyzed a dataset on food choices of college students and deployed an interactive app using Streamlit.
+**❓Question Answering System:**
+  - **Description:** Fine-tuned a transformer model from Hugging Face (SQuAD dataset) for extractive QA. Deployed using Gradio for real-time interaction.
 
-- **Question Answering System:**
-  - **Description:** Fine-tuned a question-answering model from HuggingFace and built a Gradio interface for easy interaction.
-
-- **And More...**
+**And More on my GitHub repositories...**
 
 
 ## Education
 
-- **Masters of Science (MSc)** in Management and Systems, specializing in Database Technologies
+- **Masters of Science (MSc)** in Management and Systems, Specializations: Database Technologies, Data Analytics, IT Security
   - New York University, New York
 
 
-## Professional Development
+## Professional Development & Certfications
 
-- Certification in Artificial Intelligence with Prompt Engineering, BusyQA
-- Certification in Data Analytics with Python - Ontario Tech Talent Inc, Ontario Tech University
-- Certification of Completion, FinTech Upskilling Course: Machine Learning Model (MANIFESTO OF SOFTWARE CRAFTSMANSHIP), LightHouse Labs
-- Certification of Completion, Data Science Training, Skyline IT Tech
-- Certification in Introduction to Data Science, CISCO Networking Academy
+- Data Science and Machine Learning – University of Toronto, Data Sciences Institute
+- Cloud Computing and Big Data – Seneca Polytechnic
+- Data Analytics with Python – Ontario Tech University
+- Artificial Intelligence with Prompt Engineering – BusyQA
+- Data Science and Machine Learning – University of Toronto, Data Sciences Institute
+- Google Advanced Data Analytics – Coursera (Grow with Google & Canada Learning Code)
+- FinTech Upskilling Course: Machine Learning Model – LightHouse Labs
 
 
 
