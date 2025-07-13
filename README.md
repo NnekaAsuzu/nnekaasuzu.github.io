@@ -1,5 +1,7 @@
 # About Me
-I am a Data Scientist specializing in AI and Prompt Engineering, with a strong background in Management and Systems. I hold a Master of Science (MSc) degree from New York University, where I specialized in Database Technologies, Data Analytics, and IT Security. With over 5 years of experience, I’ve applied machine learning, NLP, cloud computing, and advanced analytics to solve complex business challenges in industries such as finance, marketing, customer experience, and digital consulting. My approach combines technical expertise with business acumen to deliver solutions that are both innovative and actionable. I'm passionate about building intelligent systems using Large Language Models and Hugging Face Transformers, and I'm experienced in deploying models with tools like Streamlit, Gradio, Azure ML, and Power BI. I thrive in Agile environments and enjoy turning data into meaningful outcomes.
+I’m a Data Scientist with a Master of Science in Management and Systems from New York University, specializing in Database Technologies, Data Analytics, and IT Security. With over 5 years of experience, I apply machine learning, NLP, cloud computing, and advanced analytics to solve real-world problems.
+
+My drive to make technology better fuels my passion for research. I love exploring new methodologies and tools to continuously improve models and systems, ultimately making data science more effective and impactful. I thrive on discovering insights, testing hypotheses, and creating innovative solutions that translate complex data into actionable intelligence. My work is rooted in the belief that continuous research and adaptation are key to advancing both technology and business outcomes.
 
 ## 🚀 Projects
 
@@ -31,10 +33,6 @@ I am a Data Scientist specializing in AI and Prompt Engineering, with a strong b
 - Cloud Computing and Big Data – Seneca Polytechnic
 - Data Analytics with Python – Ontario Tech University
 - Artificial Intelligence with Prompt Engineering – BusyQA
-- Data Science and Machine Learning – University of Toronto, Data Sciences Institute
-- Google Advanced Data Analytics – Coursera (Grow with Google & Canada Learning Code)
-- FinTech Upskilling Course: Machine Learning Model – LightHouse Labs
-
 
 
 ## Key Skills & Proficiencies
