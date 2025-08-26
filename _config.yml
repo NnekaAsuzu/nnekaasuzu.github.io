@@ -14,8 +14,10 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Navigation
+# Navigation menu
 navigation:
+  - title: Home
+    url: /
   - title: About
     url: /about/
   - title: Projects

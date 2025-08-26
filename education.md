@@ -9,7 +9,7 @@ permalink: /education/
 ## Academic Background
 
 ### Masters of Science (MSc) in Management and Systems
-- **Institution:** New York University, New York  
+- Institution: New York University, New York  
 - **Specializations:** Database Technologies, Data Analytics, IT Security  
 
 ### Professional Development & Certifications
