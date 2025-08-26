@@ -1,19 +1,20 @@
 title: "Nneka Asuzu"
-description: "Data Scientist | ML Enthusiast | SQL & Python"
+description: "Data Scientist | ML Professional | SQL & Python"
 baseurl: ""
-url: "https://NnekaAsuzu.github.io"
+url: "https://nnekaasuzu.github.io/"
 
 author:
   name: "Nneka Asuzu"
   github: "https://github.com/NnekaAsuzu"
   linkedin: "https://www.linkedin.com/in/NnekaAsuzu"
 
-theme: jekyll-theme-primer   # GitHub in-built theme
+theme: architect
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+# Navigation
 navigation:
   - title: About
     url: /about/
@@ -25,5 +26,6 @@ navigation:
     url: /resume/
   - title: Contact
     url: /contact/
+
 
 
