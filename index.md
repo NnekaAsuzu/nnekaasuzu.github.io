@@ -1,9 +1,10 @@
 ---
 layout: home
-title: "Welcome"
+title: "Home"
 permalink: /
 nav_order: 1
 ---
+
 # Hi! I’m **Nneka Asuzu**
 ## Data Scientist
 
