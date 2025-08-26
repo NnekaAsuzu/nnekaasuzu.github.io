@@ -7,7 +7,7 @@ I focus on building impactful data-driven solutions and applying advanced analyt
 🌐 **Explore My Work**
 
 <ul>
-  <li><a href="https://nnekaasuzu.github.io/" target="_blank">Home</a></li>
+  <li><a href="https://nnekaasuzu.github.io/index/" target="_blank">Home</a></li>
   <li><a href="https://nnekaasuzu.github.io/about/" target="_blank">About Me</a></li>
   <li><a href="https://nnekaasuzu.github.io/projects/" target="_blank">Projects</a></li>
   <li><a href="https://nnekaasuzu.github.io/education/" target="_blank">Education</a></li>

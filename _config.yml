@@ -17,7 +17,7 @@ plugins:
 # Navigation (order controlled by nav_order in each page's front matter)
 navigation:
   - title: Home
-    url: /
+    url: /index/
   - title: About Me
     url: /about/
   - title: Projects
