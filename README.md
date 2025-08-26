@@ -1,21 +1,20 @@
 # Nneka Asuzu
 
-Hi! I’m **Nneka Asuzu**, a Data Scientist specializing in **AI, Machine Learning, NLP, and Cloud Computing**.  
+Hi! I’m **Nneka Asuzu**, a Data Scientist specializing in AI, Machine Learning, NLP, and Cloud Computing.  
 
-I focus on building impactful data-driven solutions and applying advanced analytics to solve real-world problems.  
+I focus on building impactful data-driven solutions and applying advanced analytics to solve real-world problems.
 
----
+🌐 **Explore My Work**
 
-## 🌐 Explore My Work
-- [Home](https://nnekaasuzu.github.io/)  
-- [About Me](https://nnekaasuzu.github.io/about/)  
-- [Projects](https://nnekaasuzu.github.io/projects/)  
-- [Education](https://nnekaasuzu.github.io/education/)  
-- [Resume](https://nnekaasuzu.github.io/resume/)  
-- [Contact](https://nnekaasuzu.github.io/contact/)  
+<ul>
+  <li><a href="https://nnekaasuzu.github.io/" target="_blank">Home</a></li>
+  <li><a href="https://nnekaasuzu.github.io/about/" target="_blank">About Me</a></li>
+  <li><a href="https://nnekaasuzu.github.io/projects/" target="_blank">Projects</a></li>
+  <li><a href="https://nnekaasuzu.github.io/education/" target="_blank">Education</a></li>
+  <li><a href="https://nnekaasuzu.github.io/resume/" target="_blank">Resume</a></li>
+  <li><a href="https://nnekaasuzu.github.io/contact/" target="_blank">Contact</a></li>
+</ul>
 
----
-
-## 📂 GitHub Repositories
+📂 **GitHub Repositories**  
 You can explore all my repositories here:  
-👉 [NnekaAsuzu on GitHub](https://github.com/NnekaAsuzu)
+<a href="https://github.com/NnekaAsuzu" target="_blank">👉 NnekaAsuzu on GitHub</a>

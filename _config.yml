@@ -1,5 +1,5 @@
 title: "Nneka Asuzu"
-description: "Data Scientist"
+description: "Data Scientist | AI & NLP"
 baseurl: ""
 url: "https://nnekaasuzu.github.io/"
 
@@ -14,8 +14,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-
-# Navigation
+# Navigation order and titles
 navigation:
   - title: Home
     url: /
@@ -29,6 +28,14 @@ navigation:
     url: /resume/
   - title: Contact
     url: /contact/
+
+# Override nav titles for pages
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      nav_title: "Home"
 
 
 
