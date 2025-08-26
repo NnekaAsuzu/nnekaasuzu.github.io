@@ -12,6 +12,9 @@ permalink: /education/
 - Institution: New York University, New York  
 - **Specializations:** Database Technologies, Data Analytics, IT Security  
 
+
+
+
 ### Professional Development & Certifications
 - **Data Science and Machine Learning** – University of Toronto, Data Sciences Institute  
 - **Cloud Computing, Big Data, IT & AI** – Seneca Polytechnic  

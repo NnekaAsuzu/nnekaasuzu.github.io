@@ -54,6 +54,8 @@ permalink: /resume/
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode)
 
+
+
 ## Soft Skills
 - Communication  
 - Problem-Solving  

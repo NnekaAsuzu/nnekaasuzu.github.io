@@ -1,8 +1,10 @@
 ---
 layout: home
-title: "Home"
+title: "Welcome"
 permalink: /
 ---
+
+# Welcome
 
 # Hi! I’m **Nneka Asuzu**
 ## Data Scientist | ML Professional | AI & NLP
