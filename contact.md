@@ -29,5 +29,4 @@ I’m always happy to hear from fellow data enthusiasts, collaborators, or anyon
   <button type="submit" style="padding: 0.75em 1.5em; background-color: #2c3e50; color: white; border: none; cursor: pointer;">Send</button>
 </form>
 
-[⬅ Back to Home](/)
 
