@@ -1,47 +1,36 @@
----
-layout: page
-title: "Resume"
-permalink: /resume/
----
-
-<a href="/" style="text-decoration: none; color: #0366d6;">⬅ Back to Home</a>
-
-# Key Skills & Proficiencies
-
----
-
-## Technical Skills
+### Technical Skills
 
 **Programming & Libraries:**  
-Python, SQL, Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, Matplotlib, Plotly  
+![Python](...) ![SQL](...) ![Pandas](...)  
+<br>
 
 **Machine Learning & AI:**  
-Regression, Decision Trees, XGBoost, CNN, RNN, Time Series  
+![Regression](...) ![Decision Trees](...)  
+<br>
 
-**Natural Language Processing (NLP):**  
-Sentiment Analysis, Text Classification, BERT, GPT  
+**NLP:**  
+![BERT](...) ![GPT](...)  
+<br>
 
 **Cloud & MLOps:**  
-Azure, Azure ML, MLflow  
+![Azure](...) ![MLflow](...)  
+<br>
 
 **Data Visualization:**  
-Power BI, Tableau  
+![Power BI](...) ![Tableau](...)  
+<br>
 
 **Databases:**  
-MySQL, SQL Server  
+![MySQL](...) ![SQL Server](...)  
+<br>
 
 **Tools & Platforms:**  
-Git, Jupyter, Google Colab, VS Code  
+![Git](...) ![Jupyter](...)  
+<br>
 
----
-
-## Soft Skills
-
+### Soft Skills
 - Communication  
 - Problem-Solving  
 - Adaptability  
-- Collaboration  
-
----
-
+- Collaboration
 
