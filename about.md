@@ -6,7 +6,7 @@ permalink: /about/
 
 ← [Back to Home](/)
 
-## About Me
+# About Me
 
 I’m **Nneka Asuzu**, a Data Scientist with a Master of Science in Management and Systems from **New York University**, specializing in **Database Technologies, Data Analytics, and IT Security**.
 
@@ -29,4 +29,3 @@ I thrive on:
 ## My Approach
 
 My work is rooted in the belief that **continuous research and adaptation** are key to advancing both technology and business outcomes. I enjoy tackling challenging problems and turning data into meaningful solutions.
-

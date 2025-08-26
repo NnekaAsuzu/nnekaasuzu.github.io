@@ -8,13 +8,12 @@ author:
   github: "https://github.com/NnekaAsuzu"
   linkedin: "https://www.linkedin.com/in/NnekaAsuzu"
 
-theme: architect
+remote_theme: pages-themes/architect@latest
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Navigation
 navigation:
   - title: About
     url: /about/

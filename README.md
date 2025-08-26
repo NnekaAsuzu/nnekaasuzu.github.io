@@ -1,15 +1,21 @@
 # Nneka Asuzu
 
-Hi! I’m **Nneka Asuzu**, a Data Scientist passionate about AI, ML, NLP, and cloud computing.  
+Hi! I’m **Nneka Asuzu**, a Data Scientist specializing in AI, ML, NLP, and cloud computing.  
 
-Explore my work:
+I build impactful data-driven solutions and explore new technologies to solve real-world problems.
 
-- [About Me](https://nnekaasuzu.github.io/about/)
-- [Projects](https://nnekaasuzu.github.io/projects/)
-- [Education](https://nnekaasuzu.github.io/education/)
-- [Resume](https://nnekaasuzu.github.io/resume/)
+---
+
+## Explore My Work
+
+- [About Me](https://nnekaasuzu.github.io/about/)  
+- [Projects](https://nnekaasuzu.github.io/projects/)  
+- [Education](https://nnekaasuzu.github.io/education/)  
+- [Resume](https://nnekaasuzu.github.io/resume/)  
 - [Contact](https://nnekaasuzu.github.io/contact/)
 
 ---
 
-You can also view all my GitHub repositories here: [GitHub Repositories](https://github.com/NnekaAsuzu)
+## GitHub Repositories
+
+You can view all my projects and repositories here: [GitHub Repositories](https://github.com/NnekaAsuzu)

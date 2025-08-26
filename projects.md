@@ -4,7 +4,7 @@ title: "Projects"
 permalink: /projects/
 ---
 
-<p><a href="/" style="text-decoration: none; color: #0366d6;">← Back to Home</a></p>
+[⬅ Back to Home](/)
 
 ## Memory Support Chatbot for Pregnant Women
 - **Overview:** Developed a GPT-2-based chatbot to assist pregnant women experiencing cognitive memory issues.  
@@ -35,4 +35,3 @@ permalink: /projects/
 ## More Projects
 Explore all my other projects on GitHub:  
 [View Full GitHub Repositories](https://github.com/NnekaAsuzu)
-
