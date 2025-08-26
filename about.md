@@ -4,12 +4,29 @@ title: "About Me"
 permalink: /about/
 ---
 
-<p><a href="/" style="text-decoration: none; color: #0366d6;">← Back to Home</a></p>
+← [Back to Home](/)
 
-<p>I’m a Data Scientist with a Master of Science in Management and Systems from New York University, specializing in Database Technologies, Data Analytics, and IT Security. I apply machine learning, NLP, cloud computing, and advanced analytics to solve real-world problems.</p>
+## About Me
 
+I’m **Nneka Asuzu**, a Data Scientist with a Master of Science in Management and Systems from **New York University**, specializing in **Database Technologies, Data Analytics, and IT Security**.
 
-<p>My drive to make technology better fuels my passion for research. I love exploring new methodologies and tools to continuously improve models and systems, ultimately making data science more effective and impactful. I thrive on discovering insights, testing hypotheses, and creating innovative solutions that translate complex data into actionable intelligence.</p>
+I apply **machine learning, NLP, cloud computing, and advanced analytics** to solve real-world problems.
 
+---
 
-<p>My work is rooted in the belief that continuous research and adaptation are key to advancing both technology and business outcomes.</p>
+## My Passion
+
+I’m driven by a desire to make technology better. I enjoy exploring new methodologies and tools to continuously improve models and systems, making data science more effective and impactful.
+
+I thrive on:
+
+- Discovering insights
+- Testing hypotheses
+- Creating innovative solutions that translate complex data into actionable intelligence
+
+---
+
+## My Approach
+
+My work is rooted in the belief that **continuous research and adaptation** are key to advancing both technology and business outcomes. I enjoy tackling challenging problems and turning data into meaningful solutions.
+
