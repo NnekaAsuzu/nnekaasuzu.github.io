@@ -2,6 +2,7 @@
 layout: page
 title: "Contact"
 permalink: /contact/
+nav_order: 6
 ---
 
 [⬅ Back to Home](/)

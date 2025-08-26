@@ -2,6 +2,7 @@
 layout: page
 title: "Education"
 permalink: /education/
+nav_order: 4
 ---
 
 [⬅ Back to Home](/)

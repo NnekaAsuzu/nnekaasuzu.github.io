@@ -2,6 +2,7 @@
 layout: page
 title: "Projects"
 permalink: /projects/
+nav_order: 3
 ---
 
 <p><a href="/" style="text-decoration: none; color: #0366d6;">← Back to Home</a></p>
