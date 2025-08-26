@@ -4,19 +4,23 @@ title: "Education"
 permalink: /education/
 ---
 
-[⬅ Back to Home](/)
+<a href="/" style="text-decoration: none; color: #0366d6;">⬅ Back to Home</a>
+
+# Education
 
 ## Academic Background
 
 ### Masters of Science (MSc) in Management and Systems
-- Institution: New York University, New York  
+- Institution:New York University, New York  
 - **Specializations:** Database Technologies, Data Analytics, IT Security  
 
+---
 
+## Professional Development & Certifications
 
-
-### Professional Development & Certifications
 - **Data Science and Machine Learning** – University of Toronto, Data Sciences Institute  
 - **Cloud Computing, Big Data, IT & AI** – Seneca Polytechnic  
 - **Data Analytics with Python** – Ontario Tech University  
-- **Artificial Intelligence with Prompt Engineering** – BusyQA
+- **Artificial Intelligence with Prompt Engineering** – BusyQA  
+
+---

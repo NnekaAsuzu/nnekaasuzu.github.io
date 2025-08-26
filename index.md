@@ -4,10 +4,9 @@ title: "Welcome"
 permalink: /
 ---
 
-# Welcome
+# Hi! I’m Nneka Asuzu
+## Data Scientist 
 
-# Hi! I’m **Nneka Asuzu**
-## Data Scientist | ML Professional | AI & NLP
 
 I apply machine learning, natural language processing, and advanced analytics to solve real-world problems.  
 I am passionate about building impactful data-driven solutions and exploring new technologies.
