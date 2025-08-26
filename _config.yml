@@ -1,19 +1,23 @@
+# Site settings
 title: "Nneka Asuzu"
 description: "Data Scientist | ML Professional | SQL & Python"
-baseurl: ""
+baseurl: "" # leave blank for user/organization sites
 url: "https://nnekaasuzu.github.io/"
 
 author:
   name: "Nneka Asuzu"
   github: "https://github.com/NnekaAsuzu"
-  linkedin: "https://www.linkedin.com/in/NnekaAsuzu"
+  linkedin: "https://www.linkedin.com/in/nneka-asuzu/"
 
-remote_theme: pages-themes/architect@latest
+# GitHub Pages theme
+theme: jekyll-theme-architect
 
+# Plugins supported by GitHub Pages
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+# Navigation
 navigation:
   - title: About
     url: /about/
@@ -25,6 +29,7 @@ navigation:
     url: /resume/
   - title: Contact
     url: /contact/
+
 
 
 
