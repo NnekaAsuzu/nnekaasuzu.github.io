@@ -1,6 +1,6 @@
 title: "Nneka Asuzu"
 description: "Data Scientist"
-baseurl: "" 
+baseurl: ""
 url: "https://nnekaasuzu.github.io/"
 
 author:
@@ -14,20 +14,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Navigation (order controlled by nav_order in each page's front matter)
-navigation:
-  - title: Home
-    url: /index/
-  - title: About Me
-    url: /about/
-  - title: Projects
-    url: /projects/
-  - title: Education
-    url: /education/
-  - title: Resume
-    url: /resume/
-  - title: Contact
-    url: /contact/
+# Navigation is controlled by nav_order in each page front matter
 
 
 

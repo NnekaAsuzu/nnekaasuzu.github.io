@@ -5,8 +5,6 @@ permalink: /contact/
 nav_order: 6
 ---
 
-[⬅ Back to Home](/)
-
 # Let's Connect
 
 I’m always happy to hear from fellow data professionals, collaborators, or anyone with questions about my projects. Use the form below to reach out, and I’ll get back to you as soon as possible.

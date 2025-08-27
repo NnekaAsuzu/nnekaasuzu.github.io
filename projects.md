@@ -5,7 +5,8 @@ permalink: /projects/
 nav_order: 3
 ---
 
-<p><a href="/" style="text-decoration: none; color: #0366d6;">← Back to Home</a></p>
+<a href="/" style="text-decoration: none; color: #0366d6;">← Back to Home</a>
+
 
 ## Memory Support Chatbot for Pregnant Women
 - **Overview:** Developed a GPT-2-based chatbot to assist pregnant women experiencing cognitive memory issues.  
