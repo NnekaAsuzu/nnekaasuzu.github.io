@@ -2,7 +2,7 @@
 layout: page
 title: "Contact"
 permalink: /contact/
-nav_order: 5
+nav_order: 6
 ---
 
 <a href="/" style="text-decoration: none; color: #0366d6;">← Back to Home</a>
