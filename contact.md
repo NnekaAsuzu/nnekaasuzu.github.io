@@ -5,6 +5,9 @@ permalink: /contact/
 nav_order: 6
 ---
 
+<a href="/" style="text-decoration: none; color: #0366d6;">⬅ Back to Home</a>
+
+
 # Let's Connect
 
 I’m always happy to hear from fellow data professionals, collaborators, or anyone with questions about my projects. Use the form below to reach out, and I’ll get back to you as soon as possible.

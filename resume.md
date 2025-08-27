@@ -5,6 +5,9 @@ permalink: /resume/
 nav_order: 5
 ---
 
+<a href="/" style="text-decoration: none; color: #0366d6;">⬅ Back to Home</a>
+
+
 ## Key Skills & Proficiencies
 
 ### Technical Skills
