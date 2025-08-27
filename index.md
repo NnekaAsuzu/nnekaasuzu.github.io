@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Welcome"
+title: "Home"
 permalink: /
 nav_order: 1
 ---

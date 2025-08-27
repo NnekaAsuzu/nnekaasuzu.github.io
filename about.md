@@ -2,12 +2,9 @@
 layout: page
 title: "About Me"
 permalink: /about/
----
-layout: page
-title: "About Me"
-permalink: /about/
 nav_order: 2
 ---
+
 
 <a href="/" style="text-decoration: none; color: #0366d6;">⬅ Back to Home</a>
 
