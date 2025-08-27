@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "About Me"
+title: "About"
 permalink: /about/
-nav_order: 2
+nav_order: 1
 ---
 
 <a href="/" style="text-decoration: none; color: #0366d6;">← Back to Home</a>

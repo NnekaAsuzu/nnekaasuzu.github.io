@@ -1,22 +1,26 @@
-title: "Home"
+title: "Nneka Asuzu"
 description: "Data Scientist"
 baseurl: ""
 url: "https://nnekaasuzu.github.io/"
 
 author:
-  name: "Nneka Asuzu"
-  github: "https://github.com/NnekaAsuzu"
-  linkedin: "https://www.linkedin.com/in/nneka-asuzu/"
+name: "Nneka Asuzu"
+github: "https://github.com/NnekaAsuzu"
+linkedin: "https://www.linkedin.com/in/nneka-asuzu/"
 
 theme: minima
 
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+- jekyll-feed
+- jekyll-seo-tag
 
-# Exclude the home page from nav so "Home" doesn't show twice
-exclude_from_nav:
-  - index.md
+# Explicit navigation (excluding Home/index.md)
+header_pages:
+- about.md
+- education.md
+- projects.md
+- resume.md
+- contact.md
 
 
 
