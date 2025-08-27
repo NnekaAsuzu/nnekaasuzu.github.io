@@ -2,13 +2,13 @@
 layout: home
 title: "Home"
 permalink: /
-nav_order: 1
 ---
 
-# Hi! I’m **Nneka Asuzu**
-## Data Scientist
+# Welcome! Explore my work in Data Science & AI.
 
-I apply machine learning, NLP, cloud computing, and advanced analytics to solve real-world problems. I am passionate about building impactful data-driven solutions and exploring new technologies.
+Hi! I’m **Nneka Asuzu**, a Data Scientist.
+
+I apply **machine learning, NLP, cloud computing, and advanced analytics** to solve real-world problems. I’m passionate about building impactful data-driven solutions and exploring new technologies.
 
 **Explore my work:**
 

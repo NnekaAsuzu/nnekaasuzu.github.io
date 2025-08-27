@@ -1,4 +1,4 @@
-title: "Nneka Asuzu"
+title: "Home"
 description: "Data Scientist"
 baseurl: ""
 url: "https://nnekaasuzu.github.io/"
@@ -14,8 +14,9 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Navigation is controlled by nav_order in each page front matter
-
+# Exclude the home page from nav so "Home" doesn't show twice
+exclude_from_nav:
+  - index.md
 
 
 

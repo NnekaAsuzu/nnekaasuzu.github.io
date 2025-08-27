@@ -2,11 +2,11 @@
 layout: page
 title: "Resume"
 permalink: /resume/
-nav_order: 5
+nav_order: 4
 ---
 
-<br>
 <a href="/" style="text-decoration: none; color: #0366d6;">← Back to Home</a>
+
 
 
 ## Key Skills & Proficiencies
