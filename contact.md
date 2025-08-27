@@ -5,7 +5,8 @@ permalink: /contact/
 nav_order: 6
 ---
 
-<a href="/" style="text-decoration: none; color: #0366d6;">⬅ Back to Home</a>
+<a href="/" style="text-decoration: none; color: #0366d6;">← Back to Home</a>
+
 
 
 # Let's Connect
