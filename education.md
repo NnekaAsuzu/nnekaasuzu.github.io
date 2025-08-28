@@ -5,8 +5,6 @@ permalink: /education/
 nav_order: 3
 ---
 
-# Education & Professional Development
-
 A summary of my academic background, specializations, and relevant certifications.
 
 ---

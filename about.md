@@ -1,13 +1,9 @@
 ---
 layout: page
-title: "About"
+title: "About Me"
 permalink: /about/
 nav_order: 1
 ---
-
-
-
-## About Me
 
 I’m **Nneka Asuzu**, a Data Scientist with a Master of Science in Management and Systems from New York University, specializing in **Database Technologies, Data Analytics, and IT Security**.
 
