@@ -2,13 +2,10 @@
 layout: page
 title: "About"
 permalink: /about/
-head: "{% include head-custom.html %}"
 nav_order: 1
 ---
 
 
-
-<link rel="stylesheet" href="assets/css/custom.css">
 
 ## About Me
 
