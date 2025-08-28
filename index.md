@@ -3,9 +3,12 @@ layout: home
 permalink: /
 ---
 
-I’m a Data Scientist with a **Master’s in Management and Systems from NYU**, specializing in **machine learning, NLP, and cloud computing**. I build **data-driven solutions** that create measurable impact.
+Data Scientist specializing in **machine learning, NLP, and cloud computing**. 
 
 ---
+
+
+
 
 ## What I Do
 - Transform complex data into actionable insights 
@@ -28,6 +31,7 @@ I bring a combination of **technical expertise, creativity, and a results-driven
 Whether it’s developing predictive models, analyzing datasets, or deploying scalable AI solutions, I’m passionate about turning **data into actionable results**.
 
 ---
+
 <a href="https://github.com/NnekaAsuzu" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-NnekaAsuzu-black?style=for-the-badge&logo=github" alt="GitHub">
 </a>
