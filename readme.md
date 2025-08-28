@@ -1,4 +1,4 @@
-# # Nneka Asuzu – Data Science Portfolio
+# Nneka Asuzu – Data Science Portfolio
 _Machine Learning | NLP | AI | Cloud Computing_
 
 Hi! I’m **Nneka Asuzu**, a Data Scientist specializing in **AI, Machine Learning, NLP, and Cloud Computing**. 
@@ -36,9 +36,9 @@ I’m passionate about turning **complex data into actionable insights**, design
 
 ## Tech Stack
 
-**Languages & Libraries:** Python, SQL, Pandas, NumPy, Scikit-learn, TensorFlow 
-**Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn 
-**Tools & Platforms:** Git, GitHub, AWS, Jupyter, VS Code 
+- **Languages & Libraries:** Python, SQL, Pandas, NumPy, Scikit-learn, TensorFlow 
+- **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn 
+- **Tools & Platforms:** Git, GitHub, AWS, Jupyter, VS Code 
 
 ---
 

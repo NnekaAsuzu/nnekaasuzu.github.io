@@ -4,21 +4,19 @@ baseurl: ""
 url: "https://nnekaasuzu.github.io/"
 
 author:
-name: "Nneka Asuzu"
-github: "https://github.com/NnekaAsuzu"
-linkedin: "https://www.linkedin.com/in/nneka-asuzu/"
+  name: "Nneka Asuzu"
+  github: "https://github.com/NnekaAsuzu"
+  linkedin: "https://www.linkedin.com/in/nneka-asuzu/"
 
 theme: minima
 
 plugins:
-- jekyll-feed
-- jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-seo-tag
 
-# Navigation menu(excluding Home/index.md)
 header_pages:
-- about.md
-- projects.md
-- education.md
-- resume.md
-- contact.md
-
+  - about.md
+  - projects.md
+  - education.md
+  - resume.md
+  - contact.md

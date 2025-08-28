@@ -4,8 +4,6 @@ title: "Projects"
 permalink: /projects/
 nav_order: 2
 ---
-
-# 🚀 Projects
   
 A selection of my work in **Machine Learning, NLP, and Data Analytics**. 
 Each project highlights the problem, my approach, tools used, and results.
