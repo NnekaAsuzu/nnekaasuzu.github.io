@@ -1,0 +1,25 @@
+/* Change background color */
+body {
+  background-color: #f7f7f7; /* light gray */
+  color: #222222; /* default text color */
+}
+
+/* Change link colors */
+a {
+  color: #1a73e8; /* your preferred link color */
+}
+
+a:hover {
+  color: #0c47b7; /* hover effect */
+}
+
+/* Header colors */
+header {
+  background-color: #ffffff; /* or another color */
+}
+
+/* Footer colors */
+footer {
+  background-color: #f0f0f0;
+  color: #555555;
+}

@@ -5,9 +5,6 @@ permalink: /resume/
 nav_order: 4
 ---
 
-<a href="/" style="text-decoration: none; color: #0366d6;">← Back to Home</a>
-
-
 
 ## Key Skills & Proficiencies
 

@@ -7,6 +7,8 @@ nav_order: 1
 
 
 
+<link rel="stylesheet" href="assets/css/custom.css">
+
 ## About Me
 
 I’m **Nneka Asuzu**, a Data Scientist with a Master of Science in Management and Systems from New York University, specializing in **Database Technologies, Data Analytics, and IT Security**.

@@ -8,16 +8,6 @@ I focus on building impactful data-driven solutions and applying advanced analyt
 
 ---
 
-🌐 **Portfolio Website**  
-👉 [nnekaasuzu.github.io](https://nnekaasuzu.github.io)
-
-📂 **GitHub Repositories**  
-👉 [NnekaAsuzu on GitHub](https://github.com/NnekaAsuzu)
-
----
-
----
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-nnekaasuzu.github.io-blue?style=for-the-badge)](https://nnekaasuzu.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nneka-asuzu/)
 [![GitHub](https://img.shields.io/badge/GitHub-NnekaAsuzu-black?style=for-the-badge&logo=github)](https://github.com/NnekaAsuzu)
@@ -52,8 +42,6 @@ I focus on building impactful data-driven solutions and applying advanced analyt
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
 ---
 
