@@ -3,7 +3,8 @@ layout: home
 permalink: /
 ---
 
-# Welcome! I’m Nneka Asuzu
+
+
 
 I’m a Data Scientist with a **Master’s in Management and Systems from NYU**, specializing in **machine learning, NLP, and cloud computing**. I build **data-driven solutions** that create measurable impact.
 
