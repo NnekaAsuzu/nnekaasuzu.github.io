@@ -29,5 +29,6 @@ Whether it’s developing predictive models, analyzing datasets, or deploying sc
 
 ---
 
- [![GitHub](https://img.shields.io/badge/GitHub-NnekaAsuzu-black?style=for-the-badge&logo=github)](https://github.com/NnekaAsuzu)  
+ [![GitHub](https://img.shields.io/badge/GitHub-NnekaAsuzu-black?style=for-the-badge&logo=github)](https://github.com/NnekaAsuzu)
+
 [![Repository](https://img.shields.io/badge/Repository-Site-blue?style=for-the-badge)](https://github.com/NnekaAsuzu/nnekaasuzu.github.io)
