@@ -3,9 +3,6 @@ layout: home
 permalink: /
 ---
 
-
-## Welcome! I’m Nneka Asuzu
-
 I’m a Data Scientist with a **Master’s in Management and Systems from NYU**, specializing in **machine learning, NLP, and cloud computing**. I build **data-driven solutions** that create measurable impact.
 
 ---
@@ -32,5 +29,5 @@ Whether it’s developing predictive models, analyzing datasets, or deploying sc
 
 ---
 
- [View My GitHub Profile](https://github.com/NnekaAsuzu){:target="_blank"} 
- [View Site Repository](https://github.com/NnekaAsuzu/nnekaasuzu.github.io){:target="_blank"}
+ [![GitHub](https://img.shields.io/badge/GitHub-NnekaAsuzu-black?style=for-the-badge&logo=github)](https://github.com/NnekaAsuzu)  
+[![Repository](https://img.shields.io/badge/Repository-Site-blue?style=for-the-badge)](https://github.com/NnekaAsuzu/nnekaasuzu.github.io)
