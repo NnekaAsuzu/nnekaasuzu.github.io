@@ -30,7 +30,7 @@ I’m passionate about turning **complex data into actionable insights**, design
  Predictive model for home prices using EDA and feature engineering. 
  [GitHub](https://github.com/NnekaAsuzu/housepriceprediction)
 
-*(Explore more projects on my [Portfolio](https://nnekaasuzu.github.io/projects/))* 
+ *Explore more of my work on my [GitHub Repositories](https://github.com/NnekaAsuzu?tab=repositories)*  
 
 ---
 
