@@ -14,11 +14,11 @@ plugins:
 - jekyll-feed
 - jekyll-seo-tag
 
-# Explicit navigation (excluding Home/index.md)
+# Navigation menu(excluding Home/index.md)
 header_pages:
 - about.md
-- education.md
 - projects.md
+- education.md
 - resume.md
 - contact.md
 

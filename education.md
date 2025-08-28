@@ -2,7 +2,7 @@
 layout: page
 title: "Education"
 permalink: /education/
-nav_order: 4
+nav_order: 3
 ---
 
 <a href="/" style="text-decoration: none; color: #0366d6;">← Back to Home</a>
