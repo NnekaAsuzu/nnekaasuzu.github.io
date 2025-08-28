@@ -1,10 +1,12 @@
 ---
 layout: home
 permalink: /
+title: ""
 ---
 
-# Welcome 
+# Welcome!
 <br>
+
 I’m Nneka Asuzu, a Data Scientist specializing in **machine learning, NLP, and cloud computing**.
 
 ---
