@@ -3,10 +3,11 @@ layout: home
 permalink: /
 ---
 
-#Welcome 
+# Welcome 
 <br>
 I’m Nneka Asuzu, a Data Scientist specializing in **machine learning, NLP, and cloud computing**.
 
+---
 
 ## What I Do
 - Transform complex data into actionable insights 
