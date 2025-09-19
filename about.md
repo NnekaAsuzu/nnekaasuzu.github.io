@@ -5,11 +5,9 @@ permalink: /about/
 nav_order: 1
 ---
 
+I’m **Nneka Asuzu**, a Data Scientist with a **Master of Science in Management and Systems – Specialization: Database Technologies, Data Analytics & Applied Data Science** from New York University, NY.  
 
-
-I’m **Nneka Asuzu**, a Data Scientist with a **Master of Science in Management and Systems – Specialization: Database Technologies, Data Analytics & Applied Data Science from New York University, NY**.  
-
-I apply **machine learning, NLP, cloud computing, and advanced analytics** to solve real-world problems, focusing on building solutions that create measurable impact for businesses and communities.
+I apply machine learning, NLP, cloud computing, and advanced analytics to solve real-world problems, focusing on building solutions that create measurable impact for businesses and communities.
 
 ---
 
@@ -29,10 +27,4 @@ I thrive on:
 - Testing hypotheses rigorously using evidence and analytics  
 - Designing solutions that transform raw data into **actionable, high-value information**  
 - Building systems that balance technical rigor with usability and real-world impact
-
----
-
-## My Passion
-
-I am driven to make data science more **accessible, impactful, and actionable**. I focus on **transforming complex datasets into insights that matter**, helping organizations leverage technology to achieve measurable results.
 
