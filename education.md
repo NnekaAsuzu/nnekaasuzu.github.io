@@ -9,15 +9,18 @@ A summary of my academic background, specializations, and relevant certification
 
 ---
 
-## Masters of Science (MSc) in Management and Systems
-**Institution:** New York University  
-**Specializations:** Database Technologies, Data Analytics, IT Security
+## Education
+
+**New York University**  
+
+_Master of Science (MS), Management and Systems – Specialization: Database Technologies, Data Analytics & Applied Data Science_
 
 ---
 
 ## Professional Development & Certifications
 
-- **Data Science and Machine Learning** – University of Toronto, Data Sciences Institute
-- **Cloud Computing, Big Data, IT & AI** – Seneca Polytechnic
-- **Data Analytics with Python** – Ontario Tech University
-- **Artificial Intelligence with Prompt Engineering** – BusyQA
+- **Data Science and Machine Learning** – University of Toronto, Data Sciences Institute  
+- **Data Analytics with Python** – Ontario Tech University  
+- **Google Advanced Data Analytics** – Coursera  
+- **Cloud Computing, Big Data, IT & AI** – Seneca Polytechnic  
+- **Prompt Engineering for AI** – BusyQA
