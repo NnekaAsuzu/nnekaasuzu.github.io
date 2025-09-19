@@ -7,15 +7,12 @@ nav_order: 3
 
 A summary of my academic background, specializations, and relevant certifications.
 
----
+<br>
 
-## Education
+**Master of Science (MS), Management and Systems – Specialization: Database Technologies, Data Analytics & Applied Data Science**  
+New York University
 
-**New York University**  
-
-_Master of Science (MS), Management and Systems – Specialization: Database Technologies, Data Analytics & Applied Data Science_
-
----
+<br>
 
 ## Professional Development & Certifications
 
@@ -24,3 +21,8 @@ _Master of Science (MS), Management and Systems – Specialization: Database Tec
 - **Google Advanced Data Analytics** – Coursera  
 - **Cloud Computing, Big Data, IT & AI** – Seneca Polytechnic  
 - **Prompt Engineering for AI** – BusyQA
+
+<br>
+
+
+
