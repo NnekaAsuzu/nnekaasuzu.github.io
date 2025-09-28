@@ -28,7 +28,7 @@ I’m Nneka Asuzu, a Data Scientist specializing in **machine learning, NLP, and
 ## Why Work With Me
 I bring a combination of **technical expertise, creativity, and a results-driven mindset**. I excel at translating data into **meaningful insights**, building solutions that solve complex problems, and collaborating effectively with teams to deliver impact. 
 
-Whether it’s developing predictive models, analyzing datasets, or deploying scalable AI solutions, I’m passionate about turning **data into actionable results**.
+Whether it’s developing predictive models, analyzing datasets, or building interactive AI solutions, I’m passionate about turning **data into actionable results**.
 
 ---
 
