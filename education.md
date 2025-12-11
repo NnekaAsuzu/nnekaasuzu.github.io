@@ -5,19 +5,45 @@ permalink: /education/
 nav_order: 3
 ---
 
-A summary of my academic background, specializations, and relevant certifications.
+# Education
+
+A summary of my academic background, specializations, and relevant certifications..
 
 ---
 
 ## Masters of Science (MSc) in Management and Systems
 **Institution:** New York University  
-**Specializations:** Database Technologies, Data Analytics, IT Security
+**Specializations:** Database Technologies, Data Analytics, Applied Data Science  
+**Focus & Highlights:** Designed scalable data systems, performed predictive analytics, and applied machine learning to solve business problems.
 
 ---
 
-## Professional Development & Certifications
+## Bachelor of Science in Business Management & Business Administration, Cum Laude
+**Institution:** Arizona State University  
+**Focus Areas:** Business Analytics & Quantitative Analysis  
+**Focus & Highlights:** Developed skills in statistical modeling, data-driven decision-making, and quantitative analysis applied to real-world business scenarios.
 
-- **Data Science and Machine Learning** – University of Toronto, Data Sciences Institute
-- **Cloud Computing, Big Data, IT & AI** – Seneca Polytechnic
-- **Data Analytics with Python** – Ontario Tech University
-- **Artificial Intelligence with Prompt Engineering** – BusyQA
+---
+  ## Professional Development & Certifications
+
+- **Data Science & Machine Learning** – University of Toronto, Data Sciences Institute  
+  *(Hands-on projects in predictive modeling, data wrangling, and applied machine learning)*
+
+- **Cloud Computing & Data Science Certificate** – Seneca Polytechnic  
+  *(Built cloud-based pipelines and scalable analytics solutions)*
+
+- **Data Analytics & Reporting with Power BI** – Toronto Innovation College  
+  *(Created interactive dashboards and automated reporting solutions)*
+
+- **Data Analytics Certificate (IIBA-aligned: CBDA Competencies)** – TechForward, Skills for Change  
+  *(Structured business analysis and data-driven insights)*
+
+- **Google Advanced Data Analytics** – Coursera  
+  *(Advanced exploratory, predictive, and statistical analytics)*
+
+- **Data Analytics with Python** – Ontario Tech University  
+  *(Python-based data cleaning, visualization, and analysis)*
+
+- **Prompt Engineering for AI** – BusyQA  
+  *(Applied prompt design to enhance AI workflows)*
+

@@ -2,13 +2,14 @@
 layout: page
 title: "Contact"
 permalink: /contact/
-nav_order: 5
+nav_order: 4
 ---
 
 # Let's Connect
 
-I’m always happy to hear from fellow data professionals, collaborators, or anyone with questions about my projects. 
-Use the form below to reach out, and I’ll get back to you as soon as possible.
+Feel free to contact me with questions, collaboration ideas, or just to say hi!  
+I’ll get back to you as soon as possible.
+
 
 <form action="https://formspree.io/f/mpwjabvo" method="POST" style="margin-top: 1.5em;">
  <div style="margin-bottom: 1em;">

@@ -5,26 +5,42 @@ permalink: /about/
 nav_order: 1
 ---
 
-I’m **Nneka Asuzu**, a Data Scientist with a Master of Science in Management and Systems from New York University, specializing in **Database Technologies, Data Analytics, and IT Security**.
 
-I apply **machine learning, NLP, cloud computing, and advanced analytics** to solve real-world problems, focusing on building solutions that create measurable impact.
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
----
+  <!-- Left: Picture -->
+  <div style="flex: 1; min-width: 200px;">
+    <img src="assets/images/nneka.jpg" alt="Nneka Asuzu" style="width:100%; border-radius: 12px;">
+  </div>
 
-## My Passion
+  <!-- Right: Text -->
+  <div style="flex: 2; min-width: 250px;">
+  
+### About Me
+I’m Nneka Asuzu, a Data Scientist specializing in predictive modeling, advanced analytics, and cloud-enabled solutions. I help organizations turn complex data into **actionable insights** through machine learning, visualization, and automated workflows.
 
-I’m driven by a desire to make technology more **useful, accessible, and impactful**.  
-I enjoy exploring new methodologies and tools to continuously improve models and systems, making data science more effective in solving real-world problems.
+### Download Resume
+[Download PDF Resume](assets/docs/Nneka_Asuzu_Resume.pdf){: .btn }
 
-I thrive on:
+### Key Skills
+- Machine Learning & Modeling: XGBoost, Random Forest, Regression, Time-Series Forecasting
+- Data Visualization: Power BI, Tableau, Plotly Dash
+- Automation & MLOps: Python/SQL pipelines, Azure ML, MLflow
+- Analytics & Statistics:  A/B Testing, Hypothesis Testing, Monte Carlo Simulations
 
-- Discovering insights from data  
-- Testing hypotheses with evidence  
-- Creating innovative solutions that translate complex data into **actionable intelligence**
+### Achievements & Impact
+- Built machine learning models achieving 92% accuracy on predictive tasks  
+- Designed interactive dashboards that reduced reporting time by 70%  
+- Delivered scalable cloud-based solutions for data processing and analytics  
+- Automated data workflows and pipelines to increase efficiency and reliability  
 
----
 
-## My Approach
+### Soft Skills
+- Communication: Present complex insights clearly to non-technical stakeholders  
+-  Problem-Solving: Design practical solutions for real-world challenges using data  
+- Adaptability: Quickly learn and apply new tools, techniques, and methodologies  
+- Collaboration: Work effectively in cross-functional teams  
 
-I believe that **continuous research and adaptation** are essential to advancing both technology and business outcomes.  
-I enjoy tackling complex challenges and transforming raw data into **meaningful, real-world results**.
+  </div>
+
+</div>
