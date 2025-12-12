@@ -42,6 +42,15 @@ I’m passionate about turning complex data into actionable insights, designing 
 
 ---
 
+## Education
+
+**New York University**  
+
+_Master of Science (MS), Management and Systems – Specialization: Database Technologies, Data Analytics & Applied Data Science_
+
+_For full academic background, see my [Education page](https://nnekaasuzu.github.io/education/)_
+
+
 ## Explore My Portfolio
 
 - [Projects](https://nnekaasuzu.github.io/projects/)  

@@ -2,66 +2,98 @@
 layout: home
 permalink: /
 title: ""
+nav_order: 1
 ---
+
+<div style="display: flex; align-items: flex-start; gap: 24px; flex-wrap: wrap; margin-bottom: 30px;">
+
+  <!-- Left: Picture -->
+  <div style="flex: 1; min-width: 220px;">
+    <img src="assets/images/nneka.jpg" alt="Nneka Asuzu" style="width:100%;  max-height: 3000px; object-fit: cover;border-radius: 12px;">
+  </div>
+
+  <!-- Right: Intro -->
+  <div style="flex: 2; min-width: 260px;">
+
+
 
 # Welcome!
 
-I’m Nneka Asuzu, a Data Scientist & Analytics Specialist.
+I’m **Nneka Asuzu**, a Data Scientist specializing in predictive modeling, advanced analytics, and cloud-enabled solutions.  
+I apply machine learning, data engineering, and visualization to help organizations turn raw data into clear, actionable insight.
+
+[📄 Download Resume (PDF)](assets/docs/Nneka_Asuzu_Resume.pdf){: .btn }
 
 ---
 
-## What I Do
+## About Me
 
-I transform complex data into actionable insights using predictive modeling, advanced analytics, and cloud-enabled solutions.
+I love transforming complex data into solutions that solve real problems.  
+My work spans:
 
-- Build AI & machine learning models to solve real-world problems
-- Design interactive dashboards and analytics tools for decision-making
-- Implement cloud-based solutions for scalable data pipelines
+- Building AI & ML models that drive operational and business decisions  
+- Designing interactive dashboards for real-time insight  
+- Implementing scalable, cloud-based pipelines with Python, SQL, and Azure  
+
+I believe that **data becomes powerful only when it leads to measurable outcomes**.  
+I’m always learning, improving, and asking: *How can we make this better?*
+
+---
+
+## How I Work
+
+I thrive on uncovering insights from complex datasets, validating ideas through evidence-driven analysis, and designing solutions that are both technically sound and practical to use.
+
+I am passionate about making data science **accessible, impactful, and results-focused**—balancing technical rigor with real-world usability.
 
 ---
 
 ## Core Focus Areas
 
-- Machine Learning & Modeling  
-- Data Analytics & Statistics  
-- Data Visualization & Storytelling  
-- Automation & MLOps
+### Key Skills
+- **Machine Learning & Modeling:** XGBoost, Random Forest, Linear & Logistic Regression, Time-Series Forecasting  
+- **Data Visualization:** Power BI, Tableau, Plotly Dash  
+- **Automation & MLOps:** Python & SQL pipelines, Azure ML, MLflow  
+- **Analytics & Statistics:** A/B Testing, Hypothesis Testing, Monte Carlo Simulation  
+- **Tools & Platforms:** GitHub, Jupyter Notebook, VS Code, Azure  
+
+---
+
+## Achievements & Impact
+- Built ML models achieving **92% accuracy** on predictive tasks  
+- Designed dashboards that reduced reporting time by **70%**  
+- Delivered scalable cloud solutions for analytics workloads  
+- Automated pipelines to increase reliability and efficiency  
+
+---
+
+## Soft Skills
+- **Communication:** Explain complex ideas clearly to non-technical teams  
+- **Problem-Solving:** Create practical, data-driven solutions  
+- **Adaptability:** Quickly learn new tools and methodologies  
+- **Collaboration:** Work effectively across cross-functional teams  
+
+  </div>
+</div>
 
 ---
 
 ## Featured Projects
 
-Here are a few examples of my analytics and machine learning projects:
-
-- [Credit Risk Prediction Model](https://github.com/NnekaAsuzu/Credit_Risk_Prediction) – XGBoost & Random Forest, Azure ML, Power BI dashboards  
-- [Healthcare Resource Forecasting](https://github.com/NnekaAsuzu/Healthcare_Resource_Forecasting) – ARIMA & Monte Carlo simulations, interactive Plotly Dash dashboards  
-- [Operations Efficiency Dashboard](https://github.com/NnekaAsuzu/Operations_Efficiency_Dashboard) – SQL & Python automation, scenario-based Power BI reporting
+- **[Credit Risk Prediction Model](https://github.com/NnekaAsuzu/Credit_Risk_Prediction)** – XGBoost & Random Forest, Azure ML, Power BI  
+- **[Healthcare Resource Forecasting](https://github.com/NnekaAsuzu/Healthcare_Resource_Forecasting)** – ARIMA, Monte Carlo, Plotly Dash  
+- **[Operations Efficiency Dashboard](https://github.com/NnekaAsuzu/Operations_Efficiency_Dashboard)** – SQL & Python automation, Power BI  
 
 [View All Projects →](/projects)
-
----
-
-## My Philosophy
-
-- Data is only valuable when it leads to action  
-- I tackle complex problems with advanced analytics, building predictive models, automating workflows, and creating dashboards that make insights clear, impactful, and usable  
-- Every solution I deliver is robust, scalable, and designed for real-world application  
-- I combine technical depth with clear communication and a strong focus on practical impact
-
----
-
-## Explore My Work
-
-Check out my [Projects page](/projects) to see examples of end-to-end solutions built with Python, SQL, Azure, and Power BI.
-
----
 
 <br>
 
 <a href="https://github.com/NnekaAsuzu" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-NnekaAsuzu-black?style=for-the-badge&logo=github" alt="GitHub">
 </a>
+
 <br><br>
+
 <a href="https://github.com/NnekaAsuzu/nnekaasuzu.github.io" target="_blank">
   <img src="https://img.shields.io/badge/Repository-Site-blue?style=for-the-badge" alt="Repository">
 </a>
