@@ -5,22 +5,24 @@ title: ""
 nav_order: 1
 ---
 
+
 <div style="display: flex; align-items: flex-start; gap: 24px; flex-wrap: wrap; margin-bottom: 30px;">
 
   <!-- Left: Picture -->
   <div style="flex: 1; min-width: 220px;">
-    <img src="assets/images/nneka.jpg" alt="Nneka Asuzu" style="width:100%;  max-height: 3000px; object-fit: cover;border-radius: 12px;">
+    <img src="assets/images/nneka.jpg" alt="Nneka Asuzu" style="width:100%;  max-height: 3000px; object-fit: cover;border-radius: 50%;">
   </div>
 
   <!-- Right: Intro -->
   <div style="flex: 2; min-width: 260px;">
 
 
-
 # Welcome!
 
+
 I’m **Nneka Asuzu**, a Data Scientist specializing in predictive modeling, advanced analytics, and cloud-enabled solutions.  
-I apply machine learning, data engineering, and visualization to help organizations turn raw data into clear, actionable insight.
+I apply machine learning, and data visualization to help organizations turn raw data into clear, actionable insight.
+
 
 [📄 Download Resume (PDF)](assets/docs/Nneka_Asuzu_Resume.pdf){: .btn }
 
@@ -44,7 +46,8 @@ I’m always learning, improving, and asking: *How can we make this better?*
 
 I thrive on uncovering insights from complex datasets, validating ideas through evidence-driven analysis, and designing solutions that are both technically sound and practical to use.
 
-I am passionate about making data science **accessible, impactful, and results-focused**—balancing technical rigor with real-world usability.
+I am passionate about making data science accessible, impactful, and results-focused, balancing technical rigor with real-world usability.
+
 
 ---
 
@@ -86,14 +89,3 @@ I am passionate about making data science **accessible, impactful, and results-f
 
 [View All Projects →](/projects)
 
-<br>
-
-<a href="https://github.com/NnekaAsuzu" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-NnekaAsuzu-black?style=for-the-badge&logo=github" alt="GitHub">
-</a>
-
-<br><br>
-
-<a href="https://github.com/NnekaAsuzu/nnekaasuzu.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/Repository-Site-blue?style=for-the-badge" alt="Repository">
-</a>

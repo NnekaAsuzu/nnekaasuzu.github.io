@@ -9,12 +9,15 @@ nav_order: 3
 # Education
 
 A summary of my academic background, specializations, and relevant certifications..
-
 ---
+
+
 ## Masters of Science (MSc) in Management and Systems
 **Institution:** New York University  
 **Specializations:** Database Technologies, Data Analytics, Applied Data Science  
 **Focus & Highlights:** Designed scalable data systems, performed predictive analytics, and applied machine learning to solve business problems.
+
+
 
 ---
 ## Bachelor of Science in Business Management & Business Administration, Cum Laude
