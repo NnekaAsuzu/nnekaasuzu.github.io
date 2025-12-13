@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 permalink: /
 title: ""
 nav_order: 1
@@ -9,13 +9,14 @@ nav_order: 1
 
   <!-- Left: Picture -->
   <div style="flex: 1; min-width: 220px;">
-    <img src="assets/images/nneka.jpg" alt="Nneka Asuzu" style="width:100%; max-height: 3000px; object-fit: cover; border-radius: 50%;">
+    <img src="assets/images/nneka.jpg" alt="Nneka Asuzu"
+         style="width:100%; max-height: 3000px; object-fit: cover; border-radius: 50%;">
   </div>
 
-  <!-- Right: All sections except Featured Projects -->
+  <!-- Right: Content -->
   <div style="flex: 2; min-width: 260px;">
 
-{% capture right_column %}
+{% markdown %}
 
 # Welcome!
 
@@ -73,10 +74,9 @@ I am passionate about making data science accessible, impactful, and results-foc
 - **Adaptability:** Quickly learn new tools and methodologies  
 - **Collaboration:** Work effectively across cross-functional teams  
 
-{% endcapture %}
-{{ right_column | markdownify }}
+{% endmarkdown %}
 
-</div>
+  </div>
 </div>
 
 ---
