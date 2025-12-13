@@ -1,29 +1,27 @@
 ---
-layout: default
+layout: home
 permalink: /
-title: ""
+title: "Home"
 nav_order: 1
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 24px; flex-wrap: wrap; margin-bottom: 30px;">
+<div style="display: flex; align-items: flex-start; gap: 40px; flex-wrap: wrap; margin-bottom: 50px;">
 
   <!-- Left: Picture -->
-  <div style="flex: 1; min-width: 220px;">
+  <div style="flex: 1; min-width: 260px;">
     <img src="assets/images/nneka.jpg" alt="Nneka Asuzu"
-         style="width:100%; max-height: 3000px; object-fit: cover; border-radius: 50%;">
+         style="width:100%; max-width: 350px; object-fit: cover; border-radius: 50%; margin-bottom: 20px;">
   </div>
 
-  <!-- Right: Content -->
-  <div style="flex: 2; min-width: 260px;">
-
-{% markdown %}
+  <!-- Right: Intro -->
+  <div style="flex: 2; min-width: 260px; line-height: 1.8;">
 
 # Welcome!
 
 I’m **Nneka Asuzu**, a Data Scientist specializing in predictive modeling, advanced analytics, and cloud-enabled solutions.  
-I apply machine learning, and data visualization to help organizations turn raw data into clear, actionable insight.
+I apply machine learning and data visualization to help organizations turn raw data into clear, actionable insight.
 
-[📄 Download Resume (PDF)](assets/docs/Nneka_Asuzu_Resume.pdf){: .btn }
+[📄 Download Resume (PDF)](/assets/docs/Nneka_Asuzu_resume.pdf){: .btn }
 
 ---
 
@@ -74,9 +72,7 @@ I am passionate about making data science accessible, impactful, and results-foc
 - **Adaptability:** Quickly learn new tools and methodologies  
 - **Collaboration:** Work effectively across cross-functional teams  
 
-{% endmarkdown %}
-
-  </div>
+</div>
 </div>
 
 ---

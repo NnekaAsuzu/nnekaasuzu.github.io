@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Project"
+title: "Projects"
 permalink: /projects/
 nav_order: 2
 ---
 
-## Projects by Methodology
+**Projects by Methodology**
 
 A selection of my work demonstrating expertise in:
 
