@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""
+title: "Education"
 permalink: /education/
 nav_order: 3
 ---
@@ -21,8 +21,6 @@ nav_order: 3
     margin-bottom: 1em;
   }
 </style>
-
-## Education Overview
 
 A summary of my academic background, specializations, and relevant certifications..
 
