@@ -21,7 +21,7 @@ nav_order: 1
 I’m **Nneka Asuzu**, a Data Scientist specializing in predictive modeling, advanced analytics, and cloud-enabled solutions.  
 I apply machine learning and data visualization to help organizations turn raw data into clear, actionable insight.
 
-[📄 Download Resume (PDF)](/assets/docs/Nneka_Asuzu_resume.pdf){: .btn }
+[📄 Download Resume (PDF)](/assets/docs/Nneka_Asuzu_Resume.pdf){: .btn }
 
 ---
 

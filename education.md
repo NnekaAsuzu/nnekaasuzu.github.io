@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Education"
+title: ""
 permalink: /education/
 nav_order: 3
 ---
@@ -29,7 +29,7 @@ A summary of my academic background, specializations, and relevant certification
 ---
 
 
-### Master’s Degree
+### **Master’s Degree**
 
 **Degree:** Master of Science (MSc) in Management and Systems  
 **Institution:** New York University  
@@ -41,7 +41,7 @@ A summary of my academic background, specializations, and relevant certification
 ---
 
 
-### Bachelor’s Degree
+### **Bachelor’s Degree**
 
 **Degree:** Bachelor of Science in Business Management & Business Administration, Cum Laude  
 **Institution:** Arizona State University  
@@ -51,7 +51,7 @@ A summary of my academic background, specializations, and relevant certification
 ---
 
 
-### Professional Development & Certifications
+### **Professional Development & Certifications**
 
 - **Data Science & Machine Learning** – University of Toronto, Data Sciences Institute  
   *(Hands-on projects in predictive modeling, data wrangling, and applied machine learning)*  

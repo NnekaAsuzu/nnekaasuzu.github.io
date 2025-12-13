@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Projects"
+title: ""
 permalink: /projects/
 nav_order: 2
 ---
@@ -17,7 +17,7 @@ Each project showcases how I apply these analytical techniques to solve real-wor
 
 ---
 
-### I. Predictive Modeling (Classification & Regression)
+### **I. Predictive Modeling (Classification & Regression)**
 
 These projects showcase supervised learning algorithms (XGBoost, Random Forest, Regression) to predict outcomes, quantify risk, and guide strategic decision-making.
 
@@ -37,7 +37,7 @@ These projects showcase supervised learning algorithms (XGBoost, Random Forest, 
 
 ---
 
-### II. Time Series Forecasting & Simulation
+### **II. Time Series Forecasting & Simulation**
 
 Demonstrate capability in modeling time-dependent data and using simulations to predict resource demand and future scenarios.
 
@@ -50,7 +50,7 @@ Demonstrate capability in modeling time-dependent data and using simulations to 
 
 ---
 
-### III. Data Visualization, Business Intelligence & App Deployment
+### **III. Data Visualization, Business Intelligence & App Deployment**
 
 Projects that turn complex data into clear, actionable insights via dashboards and apps.
 
