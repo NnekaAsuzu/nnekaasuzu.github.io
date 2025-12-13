@@ -3,15 +3,35 @@ layout: page
 title: "Education"
 permalink: /education/
 nav_order: 3
-
-
 ---
-# Education
+
+<style>
+  hr {
+    margin: 2em 0; /* adds space above and below each horizontal rule */
+    border: none;
+    border-top: 1px solid #ccc; /* optional: customize line color */
+  }
+
+  h2, h3 {
+    margin-top: 1.5em;
+    margin-bottom: 0.8em;
+  }
+
+  p, li {
+    margin-bottom: 1em;
+  }
+</style>
+
+## Education Overview
 
 A summary of my academic background, specializations, and relevant certifications..
 
 ---
-## Masters of Science (MSc) in Management and Systems
+
+
+### Master’s Degree
+
+**Degree:** Master of Science (MSc) in Management and Systems  
 **Institution:** New York University  
 **Specializations:** Database Technologies, Data Analytics, Applied Data Science  
 **Focus & Highlights:** Designed scalable data systems, performed predictive analytics, and applied machine learning to solve business problems.
@@ -19,13 +39,19 @@ A summary of my academic background, specializations, and relevant certification
 
 
 ---
-## Bachelor of Science in Business Management & Business Administration, Cum Laude
+
+
+### Bachelor’s Degree
+
+**Degree:** Bachelor of Science in Business Management & Business Administration, Cum Laude  
 **Institution:** Arizona State University  
 **Focus Areas:** Business Analytics & Quantitative Analysis  
 **Focus & Highlights:** Developed skills in statistical modeling, data-driven decision-making, and quantitative analysis applied to real-world business scenarios.
 
 ---
-## Professional Development & Certifications
+
+
+### Professional Development & Certifications
 
 - **Data Science & Machine Learning** – University of Toronto, Data Sciences Institute  
   *(Hands-on projects in predictive modeling, data wrangling, and applied machine learning)*  
@@ -48,5 +74,3 @@ A summary of my academic background, specializations, and relevant certification
 - **Prompt Engineering for AI** – BusyQA  
   *(Applied prompt design to enhance AI workflows)*  
 <br>
-
-
