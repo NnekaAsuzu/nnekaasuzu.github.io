@@ -5,23 +5,6 @@ permalink: /education/
 nav_order: 3
 ---
 
-<style>
-  hr {
-    margin: 2em 0; /* adds space above and below each horizontal rule */
-    border: none;
-    border-top: 1px solid #ccc; /* optional: customize line color */
-  }
-
-  h2, h3 {
-    margin-top: 1.5em;
-    margin-bottom: 0.8em;
-  }
-
-  p, li {
-    margin-bottom: 1em;
-  }
-</style>
-
 A summary of my academic background, specializations, and relevant certifications..
 
 ---

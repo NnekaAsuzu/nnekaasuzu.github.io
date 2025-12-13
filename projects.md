@@ -3,7 +3,6 @@ layout: page
 title: "Project"
 permalink: /projects/
 nav_order: 2
-hide_title: true
 ---
 
 ## Projects by Methodology
