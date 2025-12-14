@@ -5,16 +5,18 @@ title: "Home"
 nav_order: 1
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 40px; flex-wrap: wrap; margin-bottom: 50px;">
+<div style="display: flex; align-items: flex-start; gap: 40px; flex-wrap: wrap; margin-bottom: 60px;">
 
   <!-- Left: Picture -->
   <div style="flex: 1; min-width: 260px;">
     <img src="assets/images/nneka.jpg" alt="Nneka Asuzu"
-         style="width:100%; max-width: 350px; object-fit: cover; border-radius: 50%; margin-bottom: 20px;">
+         style="width:100%; max-width: 350px; object-fit: cover; border-radius: 50%;">
   </div>
 
-  <!-- Right: Intro -->
-  <div style="flex: 2; min-width: 260px; line-height: 1.8;">
+  <!-- Right: Content -->
+  <div style="flex: 2; min-width: 260px;">
+
+{% markdown %}
 
 # Welcome!
 
@@ -72,7 +74,9 @@ I am passionate about making data science accessible, impactful, and results-foc
 - **Adaptability:** Quickly learn new tools and methodologies  
 - **Collaboration:** Work effectively across cross-functional teams  
 
-</div>
+{% endmarkdown %}
+
+  </div>
 </div>
 
 ---
