@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 permalink: /
 title: "Home"
 nav_order: 1
