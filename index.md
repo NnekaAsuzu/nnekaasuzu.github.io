@@ -5,6 +5,24 @@ title: "Home"
 nav_order: 1
 ---
 
+<style>
+  .content-block h1,
+  .content-block h2,
+  .content-block h3 {
+    margin-top: 1.8em;
+    margin-bottom: 0.8em;
+  }
+
+  .content-block p,
+  .content-block ul {
+    margin-bottom: 1.2em;
+  }
+
+  .content-block hr {
+    margin: 2.5em 0;
+  }
+</style>
+
 <div style="display: flex; align-items: flex-start; gap: 40px; flex-wrap: wrap; margin-bottom: 60px;">
 
   <!-- Left: Picture -->
@@ -14,9 +32,7 @@ nav_order: 1
   </div>
 
   <!-- Right: Content -->
-  <div style="flex: 2; min-width: 260px;">
-
-{% markdown %}
+  <div class="content-block" style="flex: 2; min-width: 260px;">
 
 # Welcome!
 
@@ -73,8 +89,6 @@ I am passionate about making data science accessible, impactful, and results-foc
 - **Problem-Solving:** Create practical, data-driven solutions  
 - **Adaptability:** Quickly learn new tools and methodologies  
 - **Collaboration:** Work effectively across cross-functional teams  
-
-{% endmarkdown %}
 
   </div>
 </div>

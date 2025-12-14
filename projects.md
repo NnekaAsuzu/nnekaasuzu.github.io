@@ -5,8 +5,6 @@ permalink: /projects/
 nav_order: 2
 ---
 
-**Projects by Methodology**
-
 A selection of my work demonstrating expertise in:
 
 * **[Predictive Modeling (Classification & Regression)](#i-predictive-modeling-classification--regression)**
@@ -17,6 +15,7 @@ Each project showcases how I apply these analytical techniques to solve real-wor
 
 ---
 
+&nbsp;
 ### **I. Predictive Modeling (Classification & Regression)**
 
 These projects showcase supervised learning algorithms (XGBoost, Random Forest, Regression) to predict outcomes, quantify risk, and guide strategic decision-making.
@@ -36,6 +35,7 @@ These projects showcase supervised learning algorithms (XGBoost, Random Forest, 
 [View on GitHub](https://github.com/NnekaAsuzu/housepriceprediction){:target="_blank"}
 
 ---
+&nbsp;
 
 ### **II. Time Series Forecasting & Simulation**
 
@@ -49,7 +49,7 @@ Demonstrate capability in modeling time-dependent data and using simulations to 
 [View on GitHub](https://github.com/NnekaAsuzu/Healthcare_Resource_Forecasting){:target="_blank"}
 
 ---
-
+&nbsp;
 ### **III. Data Visualization, Business Intelligence & App Deployment**
 
 Projects that turn complex data into clear, actionable insights via dashboards and apps.
@@ -69,5 +69,6 @@ Projects that turn complex data into clear, actionable insights via dashboards a
 [View on GitHub](https://github.com/NnekaAsuzu/analyzedataset.github.io){:target="_blank"}
 
 ---
+&nbsp;
 
 ✨ For more projects, visit my [GitHub repositories](https://github.com/NnekaAsuzu){:target="_blank"}

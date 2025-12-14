@@ -8,6 +8,7 @@ nav_order: 3
 A summary of my academic background, specializations, and relevant certifications.
 
 ---
+&nbsp;
 
 ### **Master’s Degree**
 
@@ -17,7 +18,7 @@ A summary of my academic background, specializations, and relevant certification
 **Focus & Highlights:** Designed scalable data systems, performed predictive analytics, and applied machine learning to solve business problems.
 
 ---
-
+&nbsp;
 ### **Bachelor’s Degree**
 
 **Degree:** Bachelor of Science in Business Management & Business Administration, Cum Laude  
@@ -26,7 +27,7 @@ A summary of my academic background, specializations, and relevant certification
 **Focus & Highlights:** Developed skills in statistical modeling, data-driven decision-making, and quantitative analysis applied to real-world business scenarios.
 
 ---
-
+&nbsp;
 ### **Professional Development & Certifications**
 
 - **Data Science & Machine Learning** – University of Toronto, Data Sciences Institute  
