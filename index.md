@@ -46,7 +46,7 @@ permalink: /
     border-radius: 50%;
   }
 
-  /* Tighten spacing for View All Projects button */
+  /* Featured Projects button styling */
   .featured-projects a.btn {
     display: inline-block;
     margin-top: 5px;
@@ -118,24 +118,32 @@ I am passionate about making data science accessible, impactful, and results-foc
 - **Communication:** Explain complex ideas clearly to non-technical teams  
 - **Problem-Solving:** Create practical, data-driven solutions  
 - **Adaptability:** Quickly learn new tools and methodologies  
-- **Collaboration:** Work effectively across cross-functional teams  
+- **Collaboration:** Work effectively across cross-functional teams
 
-  </div>
-</div>
-
+  </div> <!-- closes content-block -->
+</div> <!-- closes flex container -->
 
 <!-- Featured Projects -->
-<div class="featured-projects" markdown="1">
+<div class="featured-projects">
 
 ## Featured Projects
 <hr style="border: 1px solid #ccc; margin-top: 5px; margin-bottom: 10px;">
 
-- **[Credit Risk Prediction Model](https://github.com/NnekaAsuzu/Credit_Risk_Prediction)** – XGBoost & Random Forest, Azure ML, Power BI  
-- **[Healthcare Resource Forecasting](https://github.com/NnekaAsuzu/Healthcare_Resource_Forecasting)** – ARIMA, Monte Carlo, Plotly Dash  
-- **[Operations Efficiency Dashboard](https://github.com/NnekaAsuzu/Operations_Efficiency_Dashboard)** – SQL & Python automation, Power BI  
+- **<a href="https://github.com/NnekaAsuzu/Credit_Risk_Prediction" target="_blank">Credit Risk Prediction Model</a>** – XGBoost & Random Forest, Azure ML, Power BI  
+- **<a href="https://github.com/NnekaAsuzu/Healthcare_Resource_Forecasting" target="_blank">Healthcare Resource Forecasting</a>** – ARIMA, Monte Carlo, Plotly Dash  
+- **<a href="https://github.com/NnekaAsuzu/Operations_Efficiency_Dashboard" target="_blank">Operations Efficiency Dashboard</a>** – SQL & Python automation, Power BI  
 
-<div style="margin-top: 5px;">
-[View All Projects →](/projects){: .btn }
+<div style="margin-top: 10px; text-align: center;">
+  <a href="/projects" style="
+      display: inline-block;
+      padding: 10px 40px;
+      background-color: #007acc;
+      color: white;
+      text-decoration: none;
+      border-radius: 6px;
+      font-weight: bold;
+      min-width: 250px;
+  ">View All Projects →</a>
 </div>
 
 </div>
