@@ -24,9 +24,9 @@ permalink: /
 <div style="display: flex; align-items: flex-start; gap: 40px; flex-wrap: wrap; margin-bottom: 60px;">
 
   <!-- Left: Picture -->
-  <div style="flex: 1; min-width: 260px;">
+  <div style="flex: 1.3; min-width: 300px;">
     <img src="/assets/images/nneka.jpg" alt="Nneka Asuzu"
-         style="width:100%; max-width: 350px; object-fit: cover; border-radius: 50%;">
+         style="width:100%; max-width: 420px; object-fit: cover; border-radius: 50%;">
   </div>
 
   <!-- Right: Main Content -->
@@ -91,10 +91,9 @@ I am passionate about making data science accessible, impactful, and results-foc
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; gap: 40px; flex-wrap: wrap;" markdown="1">
+<div markdown="1" style="margin-top: 60px;">
 
-  <!-- Left: Featured Projects -->
-  <div style="flex: 1; min-width: 260px;">
+---
 
 ## Featured Projects
 
@@ -104,5 +103,4 @@ I am passionate about making data science accessible, impactful, and results-foc
 
 [View All Projects →](/projects)
 
-  </div>
 </div>

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Contact"
+title: Contact
 permalink: /contact/
-nav_order: 4
 ---
+
 
 # Let's Connect
 

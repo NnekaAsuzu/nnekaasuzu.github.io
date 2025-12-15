@@ -1,9 +1,10 @@
 ---
 layout: page
-title: "Projects"
+title: Projects
 permalink: /projects/
-nav_order: 2
 ---
+
+
 
 A selection of my work demonstrating expertise in:
 

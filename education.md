@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Education"
+title: Education
 permalink: /education/
-nav_order: 3
 ---
+
 
 A summary of my academic background, specializations, and relevant certifications.
 
