@@ -9,39 +9,56 @@ permalink: /
     font-weight: bold;
   }
 
+  /* Reduce spacing for h1, h2, h3 */
   .content-block h1,
   .content-block h2,
   .content-block h3 {
-    margin-top: 1.2em;   /* reduced spacing */
-    margin-bottom: 0.6em; /* reduced spacing */
+    margin-top: 1em;   
+    margin-bottom: 0.5em; 
   }
 
+  /* Tighter paragraph spacing */
   .content-block p,
   .content-block ul {
-    margin-bottom: 0.8em; /* tighter spacing */
+    margin-bottom: 0.6em; 
   }
 
+  /* Reduce hr spacing */
   .content-block hr {
-    margin: 2em 0;  /* slightly tighter */
+    margin: 1.5em 0;  
   }
 
-  /* Optional: Featured Projects spacing */
+  /* Featured Projects container spacing */
   .featured-projects {
-    margin-top: 40px;
+    margin-top: 10px;  /* smaller gap from previous content */
+    margin-bottom: 20px; /* space before footer */
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 20px;
   }
 
-  /* Optional: reduce bottom spacing after View All Projects */
-  .featured-projects a.btn {
-    margin-bottom: 20px;
+  /* Image styling for bigger photo */
+  .profile-pic {
+    width: 100%;
+    max-width: 480px;  
+    object-fit: cover;
+    border-radius: 50%;
   }
+
+  /* Tighten spacing for View All Projects button */
+  .featured-projects a.btn {
+    display: inline-block;
+    margin-top: 5px;
+  }
+
 </style>
 
 <div style="display: flex; align-items: flex-start; gap: 40px; flex-wrap: wrap;">
 
   <!-- Left: Picture -->
   <div style="flex: 1.3; min-width: 300px;">
-    <img src="/assets/images/nneka.jpg" alt="Nneka Asuzu"
-         style="width:100%; max-width: 420px; object-fit: cover; border-radius: 50%;">
+    <img src="/assets/images/nneka.jpg" alt="Nneka Asuzu" class="profile-pic">
   </div>
 
   <!-- Right: Main Content -->
@@ -106,17 +123,19 @@ I am passionate about making data science accessible, impactful, and results-foc
   </div>
 </div>
 
+
 <!-- Featured Projects -->
 <div class="featured-projects" markdown="1">
 
----
-
 ## Featured Projects
+<hr style="border: 1px solid #ccc; margin-top: 5px; margin-bottom: 10px;">
 
 - **[Credit Risk Prediction Model](https://github.com/NnekaAsuzu/Credit_Risk_Prediction)** – XGBoost & Random Forest, Azure ML, Power BI  
 - **[Healthcare Resource Forecasting](https://github.com/NnekaAsuzu/Healthcare_Resource_Forecasting)** – ARIMA, Monte Carlo, Plotly Dash  
 - **[Operations Efficiency Dashboard](https://github.com/NnekaAsuzu/Operations_Efficiency_Dashboard)** – SQL & Python automation, Power BI  
 
-[View All Projects →](/projects)
+<div style="margin-top: 5px;">
+[View All Projects →](/projects){: .btn }
+</div>
 
 </div>
