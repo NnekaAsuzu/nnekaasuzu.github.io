@@ -9,7 +9,6 @@ A summary of my academic background, specializations, and relevant certification
 
 ---
 &nbsp;
-
 ### **Master’s Degree**
 
 **Degree:** Master of Science (MSc) in Management and Systems  

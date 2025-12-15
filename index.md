@@ -1,8 +1,6 @@
 ---
-layout: page
+layout: default
 permalink: /
-title: "Home"
-nav_order: 1
 ---
 
 <style>
@@ -27,12 +25,12 @@ nav_order: 1
 
   <!-- Left: Picture -->
   <div style="flex: 1; min-width: 260px;">
-    <img src="assets/images/nneka.jpg" alt="Nneka Asuzu"
+    <img src="/assets/images/nneka.jpg" alt="Nneka Asuzu"
          style="width:100%; max-width: 350px; object-fit: cover; border-radius: 50%;">
   </div>
 
-  <!-- Right: Content -->
-  <div class="content-block" style="flex: 2; min-width: 260px;">
+  <!-- Right: Main Content -->
+  <div class="content-block" style="flex: 2; min-width: 260px;" markdown="1">
 
 # Welcome!
 
@@ -93,7 +91,10 @@ I am passionate about making data science accessible, impactful, and results-foc
   </div>
 </div>
 
----
+<div style="display: flex; align-items: flex-start; gap: 40px; flex-wrap: wrap;" markdown="1">
+
+  <!-- Left: Featured Projects -->
+  <div style="flex: 1; min-width: 260px;">
 
 ## Featured Projects
 
@@ -102,3 +103,6 @@ I am passionate about making data science accessible, impactful, and results-foc
 - **[Operations Efficiency Dashboard](https://github.com/NnekaAsuzu/Operations_Efficiency_Dashboard)** – SQL & Python automation, Power BI  
 
 [View All Projects →](/projects)
+
+  </div>
+</div>

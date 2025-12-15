@@ -14,7 +14,6 @@ A selection of my work demonstrating expertise in:
 Each project showcases how I apply these analytical techniques to solve real-world problems.
 
 ---
-
 &nbsp;
 ### **I. Predictive Modeling (Classification & Regression)**
 
