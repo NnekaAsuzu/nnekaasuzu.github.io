@@ -4,24 +4,39 @@ permalink: /
 ---
 
 <style>
+  /* Make all h2 headings bold */
+  h2 {
+    font-weight: bold;
+  }
+
   .content-block h1,
   .content-block h2,
   .content-block h3 {
-    margin-top: 1.8em;
-    margin-bottom: 0.8em;
+    margin-top: 1.2em;   /* reduced spacing */
+    margin-bottom: 0.6em; /* reduced spacing */
   }
 
   .content-block p,
   .content-block ul {
-    margin-bottom: 1.2em;
+    margin-bottom: 0.8em; /* tighter spacing */
   }
 
   .content-block hr {
-    margin: 2.5em 0;
+    margin: 2em 0;  /* slightly tighter */
+  }
+
+  /* Optional: Featured Projects spacing */
+  .featured-projects {
+    margin-top: 40px;
+  }
+
+  /* Optional: reduce bottom spacing after View All Projects */
+  .featured-projects a.btn {
+    margin-bottom: 20px;
   }
 </style>
 
-<div style="display: flex; align-items: flex-start; gap: 40px; flex-wrap: wrap; margin-bottom: 60px;">
+<div style="display: flex; align-items: flex-start; gap: 40px; flex-wrap: wrap;">
 
   <!-- Left: Picture -->
   <div style="flex: 1.3; min-width: 300px;">
@@ -91,7 +106,8 @@ I am passionate about making data science accessible, impactful, and results-foc
   </div>
 </div>
 
-<div markdown="1" style="margin-top: 60px;">
+<!-- Featured Projects -->
+<div class="featured-projects" markdown="1">
 
 ---
 
