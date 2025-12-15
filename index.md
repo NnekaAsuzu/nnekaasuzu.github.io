@@ -124,7 +124,7 @@ I am passionate about making data science accessible, impactful, and results-foc
 </div> <!-- closes flex container -->
 
 <!-- Featured Projects -->
-<div class="featured-projects">
+<div class="featured-projects" markdown="1">
 
 ## Featured Projects
 <hr style="border: 1px solid #ccc; margin-top: 5px; margin-bottom: 10px;">
@@ -142,8 +142,9 @@ I am passionate about making data science accessible, impactful, and results-foc
       text-decoration: none;
       border-radius: 6px;
       font-weight: bold;
-      min-width: 250px;
+      min-width: 300px;  /* slightly longer */
   ">View All Projects →</a>
 </div>
 
 </div>
+
