@@ -66,58 +66,61 @@ permalink: /
 # Welcome!
 
 I’m **Nneka Asuzu**, a Data Scientist specializing in predictive modeling, advanced analytics, and cloud-enabled solutions.  
-I apply machine learning and data visualization to help organizations turn raw data into clear, actionable insight.
+I build machine learning models and dashboards that turn complex data into actionable insights at scale.
 
 [📄 Download Resume (PDF)](/assets/docs/Nneka_Asuzu_resume.pdf){: .btn }
-
 ---
 
 ## About Me
 
-I love transforming complex data into solutions that solve real problems.  
+I transform complex data into actionable solutions that solve real-world problems.  
 My work spans:
 
-- Building AI & ML models that drive operational and business decisions  
+- Building AI & ML models that guide operational and business decisions
 - Designing interactive dashboards for real-time insight  
 - Implementing scalable, cloud-based pipelines with Python, SQL, and Azure  
 
-I believe that **data becomes powerful only when it leads to measurable outcomes**.  
-I’m always learning, improving, and asking: *How can we make this better?*
+I believe that **data is only powerful when it drives measurable outcomes**.  
+I’m constantly learning, iterating, and asking: *How can we make this better?*
 
 ---
 
+
 ## How I Work
 
-I thrive on uncovering insights from complex datasets, validating ideas through evidence-driven analysis, and designing solutions that are both technically sound and practical to use.
+I design, build, and evaluate predictive and analytical models to solve complex, real-world problems. I leverage statistical analysis, machine learning, and data-driven experimentation to uncover actionable insights and optimize outcomes.  
 
-I am passionate about making data science accessible, impactful, and results-focused, balancing technical rigor with real-world usability.
+My focus is on end-to-end data science: from data cleaning and feature engineering, to model selection, evaluation, and deployment—ensuring technical rigor and measurable impact.
+
 
 ---
 
 ## Core Focus Areas
 
-### Key Skills
-- **Machine Learning & Modeling:** XGBoost, Random Forest, Linear & Logistic Regression, Time-Series Forecasting  
-- **Data Visualization:** Power BI, Tableau, Plotly Dash  
+- **Machine Learning & Predictive Modeling:** XGBoost, Random Forest, Linear & Logistic Regression, Time-Series Forecasting (ARIMA, Prophet)  
+- **Data Visualization & Business Intelligence:** Power BI, Tableau, Plotly Dash  
 - **Automation & MLOps:** Python & SQL pipelines, Azure ML, MLflow  
-- **Analytics & Statistics:** A/B Testing, Hypothesis Testing, Monte Carlo Simulation  
-- **Tools & Platforms:** GitHub, Jupyter Notebook, VS Code, Azure  
+- **Analytics & Statistical Methods:** A/B Testing, Hypothesis Testing, Monte Carlo Simulation  
+- **Tools & Platforms:** GitHub, Jupyter Notebook, VS Code, Azure
 
 ---
 
 ## Achievements & Impact
-- Built ML models achieving **92% accuracy** on predictive tasks  
-- Designed dashboards that reduced reporting time by **70%**  
-- Delivered scalable cloud solutions for analytics workloads  
-- Automated pipelines to increase reliability and efficiency  
+
+- Built ML models achieving **high predictive accuracy** on multiple projects.  
+- Designed dashboards that reduced reporting and analysis time by **30%**.  
+- Delivered scalable cloud solutions for analytics workloads.  
+- Automated pipelines to increase reliability and efficiency.
 
 ---
 
 ## Soft Skills
-- **Communication:** Explain complex ideas clearly to non-technical teams  
-- **Problem-Solving:** Create practical, data-driven solutions  
-- **Adaptability:** Quickly learn new tools and methodologies  
-- **Collaboration:** Work effectively across cross-functional teams  
+
+- **Communication:** Translate complex data insights into actionable recommendations for non-technical stakeholders. 
+- **Problem-Solving:** Identify and implement practical, data-driven solutions to operational and business challenges.
+- **Adaptability:** Rapidly learn and apply new tools, technologies, and methodologies to evolving project needs.  
+- **Collaboration:** Partner effectively with cross-functional teams to deliver data science projects end-to-end.
+
 
 </div> <!-- closes main content block -->
 
