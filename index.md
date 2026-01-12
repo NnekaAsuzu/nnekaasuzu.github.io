@@ -69,6 +69,7 @@ I’m **Nneka Asuzu**, a Data Scientist specializing in predictive modeling, adv
 I build machine learning models and dashboards that turn complex data into actionable insights at scale.
 
 [📄 Download Resume (PDF)](/assets/docs/Nneka_Asuzu_resume.pdf){: .btn }
+
 ---
 
 ## About Me
@@ -88,10 +89,9 @@ I’m constantly learning, iterating, and asking: *How can we make this better?*
 
 ## How I Work
 
-I design, build, and evaluate predictive and analytical models to solve complex, real-world problems. I leverage statistical analysis, machine learning, and data-driven experimentation to uncover actionable insights and optimize outcomes.  
-
-My focus is on end-to-end data science: from data cleaning and feature engineering, to model selection, evaluation, and deployment—ensuring technical rigor and measurable impact.
-
+- Build and evaluate predictive and analytical models to solve real-world problems  
+- Apply statistical analysis and machine learning to generate actionable insights  
+- Cover end-to-end data science: cleaning, feature engineering, model selection, evaluation, and deployment
 
 ---
 
@@ -116,10 +116,10 @@ My focus is on end-to-end data science: from data cleaning and feature engineeri
 
 ## Soft Skills
 
-- **Communication:** Translate complex data insights into actionable recommendations for non-technical stakeholders. 
-- **Problem-Solving:** Identify and implement practical, data-driven solutions to operational and business challenges.
-- **Adaptability:** Rapidly learn and apply new tools, technologies, and methodologies to evolving project needs.  
-- **Collaboration:** Partner effectively with cross-functional teams to deliver data science projects end-to-end.
+- **Communication:** Explain data insights clearly to non-technical stakeholders. 
+- **Problem-Solving:** Deliver practical, data-driven solutions.
+- **Adaptability:** Quickly learn and apply new tools and methods.  
+- **Collaboration:** Work effectively across cross-functional teams on end-to-end projects.
 
 
 </div> <!-- closes main content block -->
