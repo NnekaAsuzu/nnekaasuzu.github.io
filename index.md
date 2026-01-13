@@ -65,8 +65,8 @@ permalink: /
 
 # Welcome!
 
-I’m **Nneka Asuzu**, a Data Scientist specializing in predictive modeling, advanced analytics, and cloud-enabled solutions.  
-I build machine learning models and dashboards that turn complex data into actionable insights at scale.
+I’m **Nneka Asuzu** a Data Scientist specializing in predictive modeling and cloud-enabled analytics. 
+I build machine learning solutions that transform raw data into strategic business outcomes.
 
 [📄 Download Resume (PDF)](/assets/docs/Nneka_Asuzu_resume.pdf){: .btn }
 
@@ -74,24 +74,19 @@ I build machine learning models and dashboards that turn complex data into actio
 
 ## About Me
 
-I transform complex data into actionable solutions that solve real-world problems.  
-My work spans:
-
-- Building AI & ML models that guide operational and business decisions
-- Designing interactive dashboards for real-time insight  
-- Implementing scalable, cloud-based pipelines with Python, SQL, and Azure  
-
-I believe that **data is only powerful when it drives measurable outcomes**.  
-I’m constantly learning, iterating, and asking: *How can we make this better?*
+I believe data is a tool for storytelling and problem-solving.  
+My work focuses on building scalable, cloud-based pipelines that help organizations move from guessing to knowing.  
+I thrive at the intersection of Python, SQL, and Azure, where analytics meets real-world decision-making.  
+I’m always iterating, asking how systems, models, and decisions can be made better.
 
 ---
 
 
 ## How I Work
 
-- Build and evaluate predictive and analytical models to solve real-world problems  
-- Apply statistical analysis and machine learning to generate actionable insights  
-- Cover end-to-end data science: cleaning, feature engineering, model selection, evaluation, and deployment
+I handle the full data lifecycle, from data cleaning and feature engineering to model selection and evaluation.  
+By combining statistical rigor with modern machine learning techniques, I ensure models provide accurate, actionable insights for real-world problems.
+
 
 ---
 
