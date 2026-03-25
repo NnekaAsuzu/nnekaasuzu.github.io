@@ -68,7 +68,9 @@ permalink: /
 I’m **Nneka Asuzu** a Data Scientist specializing in predictive modeling and cloud-enabled analytics. 
 I build machine learning solutions that transform raw data into strategic business outcomes.
 
-[📄 Download Resume (PDF)](/assets/docs/Nneka_Asuzu_resume.pdf){: .btn }
+<a href="/assets/docs/Nneka_Asuzu_resume.pdf" target="_blank" rel="noopener noreferrer" class="btn">
+  📄 View Resume (PDF)
+</a>
 
 ---
 
