@@ -58,7 +58,7 @@ Projects focused on time-series modeling, uncertainty, and scenario-based decisi
 - Forecasting using Prophet and ARIMA models  
 - Monte Carlo simulation for scenario-based analysis  
 - Flask API deployment for real-time forecasting  
-[View on GitHub](https://github.com/NnekaAsuzu/financial-forecasting-scenario-api){:target="_blank"}
+[View on GitHub](https://github.com/NnekaAsuzu/financial_forecasting_scenario_api){:target="_blank"}
 
 #### **Healthcare Workforce Optimization**
 - Regression and Random Forest models for demand prediction  
