@@ -119,7 +119,7 @@ My work spans the full modeling lifecycle from data preparation and feature engi
 </div> <!-- closes flex container -->
 
 <!-- Featured Projects -->
-<div class="featured-projects" markdown="1" style="width: 100%;">
+<div class="featured-projects" markdown="1" style="width: 100%; max-width: 1300px; margin: 0 auto;">
 
 ## Featured Projects
 <hr style="border: 1px solid #ccc; margin-top: 5px; margin-bottom: 10px;">
