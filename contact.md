@@ -7,9 +7,11 @@ permalink: /contact/
 
 # Let's Connect
 
-Feel free to contact me with questions, collaboration ideas, or just to say hi!  
-I’ll get back to you as soon as possible.
+Feel free to reach out for collaborations, discussions, or opportunities related to data science, machine learning, and analytics.
 
+Whether you’re looking to collaborate on a project or discuss ideas, I’d be happy to connect. 
+ 
+I’ll get back to you as soon as possible.
 
 <form action="https://formspree.io/f/mpwjabvo" method="POST" style="margin-top: 1.5em;">
  <div style="margin-bottom: 1em;">

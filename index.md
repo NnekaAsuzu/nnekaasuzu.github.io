@@ -65,8 +65,8 @@ permalink: /
 
 # Welcome!
 
-I’m **Nneka Asuzu** a Data Scientist specializing in predictive modeling and cloud-enabled analytics. 
-I build machine learning solutions that transform raw data into strategic business outcomes.
+I’m Nneka Asuzu, a Data Scientist specializing in machine learning and end-to-end ML systems. I build, evaluate, and deploy models that drive real-world decision-making.
+
 
 <a href="/assets/docs/Nneka_Asuzu_resume.pdf" target="_blank" rel="noopener noreferrer" class="btn">
   📄 View Resume (PDF)
@@ -76,47 +76,42 @@ I build machine learning solutions that transform raw data into strategic busine
 
 ## About Me
 
-I believe data is a tool for storytelling and problem-solving.  
-My work focuses on building scalable, cloud-based pipelines that help organizations move from guessing to knowing.  
-I thrive at the intersection of Python, SQL, and Azure, where analytics meets real-world decision-making.  
-I’m always iterating, asking how systems, models, and decisions can be made better.
+I focus on building machine learning models that uncover patterns in data and translate them into actionable insights. 
 
----
-
-
-## How I Work
-
-I handle the full data lifecycle, from data cleaning and feature engineering to model selection and evaluation.  
-By combining statistical rigor with modern machine learning techniques, I ensure models provide accurate, actionable insights for real-world problems.
+My work spans the full modeling lifecycle from data preparation and feature engineering to model evaluation and deployment, ensuring solutions are practical, scalable, and effective in real-world decision-making.
 
 
 ---
+
 
 ## Core Focus Areas
 
-- **Machine Learning & Predictive Modeling:** XGBoost, Random Forest, Linear & Logistic Regression, Time-Series Forecasting (ARIMA, Prophet)  
-- **Data Visualization & Business Intelligence:** Power BI, Tableau, Plotly Dash  
-- **Automation & MLOps:** Python & SQL pipelines, Azure ML, MLflow  
-- **Analytics & Statistical Methods:** A/B Testing, Hypothesis Testing, Monte Carlo Simulation  
-- **Tools & Platforms:** GitHub, Jupyter Notebook, VS Code, Azure
+- **Machine Learning:** Supervised learning (regression, classification) and unsupervised learning (clustering, dimensionality reduction) using linear models, tree-based models (Decision Trees, Random Forest, Gradient Boosting, XGBoost), SVM, KNN, and PCA.
+- **Model Deployment & ML Systems:** End-to-end ML workflows and deployment into cloud and production environments.
+- **Data Analytics & Statistical Methods:** Exploratory data analysis, hypothesis testing, A/B testing, and time series forecasting (ARIMA, Prophet).
+- **Data Visualization & Business Intelligence:** Power BI, Tableau, Plotly Dash.
+- **Tools & Platforms:** Python (Pandas, NumPy, Scikit-learn), SQL, Git, Jupyter Notebook, Azure Machine Learning, Azure SQL Database, Power BI.
 
 ---
 
 ## Achievements & Impact
 
-- Built ML models achieving **high predictive accuracy** on multiple projects.  
-- Designed dashboards that reduced reporting and analysis time by **30%**.  
-- Delivered scalable cloud solutions for analytics workloads.  
-- Automated pipelines to increase reliability and efficiency.
+- Improved model performance over baseline through feature engineering and hyperparameter tuning across multiple projects.
+- Built and deployed machine learning models to support real-world decision-making.
+- Designed dashboards that reduced reporting and analysis time by 30%, improving decision-making efficiency. 
+- Automated data workflows to improve consistency, reduce manual effort, and enhance data reliability.
+
 
 ---
 
 ## Soft Skills
 
-- **Communication:** Explain data insights clearly to non-technical stakeholders. 
-- **Problem-Solving:** Deliver practical, data-driven solutions.
-- **Adaptability:** Quickly learn and apply new tools and methods.  
-- **Collaboration:** Work effectively across cross-functional teams on end-to-end projects.
+- **Communication:** Translate machine learning results into clear, actionable insights that support decision-making.
+- **Problem-Solving:** Approach business problems using structured, data-driven thinking to develop effective ML solutions.
+- **Adaptability:** Quickly learn and apply new tools, models, and techniques across different projects.  
+- **Collaboration:** Collaborate effectively with cross-functional teams to deliver machine learning solutions.
+
+
 
 
 </div> <!-- closes main content block -->
@@ -130,9 +125,10 @@ By combining statistical rigor with modern machine learning techniques, I ensure
 ## Featured Projects
 <hr style="border: 1px solid #ccc; margin-top: 5px; margin-bottom: 10px;">
 
-- **[Credit Risk Prediction Model](https://github.com/NnekaAsuzu/Credit_Risk_Prediction)** – XGBoost & Random Forest, Azure ML, Power BI  
-- **[Healthcare Resource Forecasting](https://github.com/NnekaAsuzu/Healthcare_Resource_Forecasting)** – ARIMA, Monte Carlo, Plotly Dash  
-- **[Operations Efficiency Dashboard](https://github.com/NnekaAsuzu/Operations_Efficiency_Dashboard)** – SQL & Python automation, Power BI  
+- **[Credit Risk Prediction System](...)** – Classification (Logistic Regression → Random Forest → XGBoost), SHAP Explainability, Azure ML, Power BI  
+- **[Supply Chain Risk & Inventory Optimization](...)** – Classification (Logistic Regression → XGBoost → AutoML benchmarking), Azure ML, Power BI  
+- **[Customer Value & Lifecycle Modeling](...)** – Clustering (K-Means + PCA), Regression (XGBoost for CLV), A/B Testing, Streamlit  
+- **[Healthcare Resource Forecasting](...)** – Time Series (ARIMA) + Regression (Random Forest), Monte Carlo Simulation, Streamlit Dashboard  
 
 <div style="margin-top: 10px; text-align: center;">
   <a href="/projects" style="

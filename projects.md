@@ -4,106 +4,112 @@ title: Projects
 permalink: /projects/
 ---
 
-
-A selection of my work demonstrating expertise in key data science techniques:
-
-* **[I. Predictive Modeling](#i-predictive-modeling)**
-* **[II. Time Series Forecasting & Simulation](#ii-time-series-forecasting--simulation)**
-* **[III. Data Visualization, Business Intelligence & App Deployment](#iii-data-visualization-business-intelligence--app-deployment)**
-
-Each project showcases how I apply these analytical techniques to solve real-world problems.
-
+A collection of end-to-end machine learning, forecasting, and applied data science systems built to support real-world decision-making through predictive modeling, simulation, and intelligent applications.
 
 ---
+
+* **[I. Machine Learning Systems](#i-machine-learning-systems)**
+* **[II. Forecasting & Simulation Systems](#ii-forecasting--simulation-systems)**
+* **[III. Machine Learning & Language-Based Systems](#iii-machine-learning--language-based-systems)**
+
+Each project demonstrates how I design and apply machine learning systems to solve real-world problems.
+
+---
+
 &nbsp;
 
-### **I. Predictive Modeling**
+### **I. Machine Learning Systems**
 
-These projects showcase predictive modeling using algorithms like XGBoost, Random Forest, and regression to predict outcomes, quantify risk, and guide data-driven decision-making.
+Projects focused on classification, regression, and structured decision modeling.
 
 #### **Credit Risk Prediction Model**
-- **Problem:** Predict credit risk to help financial institutions make informed lending decisions.  
-- **Approach:** Applied XGBoost and Random Forest with feature engineering and model evaluation.  
-- **Technologies:** Python, XGBoost, Random Forest, Azure, Power BI  
-- **Results:** Achieved high accuracy in identifying high-risk customers, enabling better lending decisions.  
-[View on GitHub](https://github.com/NnekaAsuzu/Credit_Risk_Prediction){:target="_blank"}
+- Classification using Logistic Regression, Random Forest, and XGBoost  
+- Feature engineering and SHAP-based model explainability  
+- Azure ML deployment with Power BI risk dashboard  
+[View on GitHub](https://github.com/NnekaAsuzu/credit_risk_loan_default_prediction){:target="_blank"}
 
-#### **Financial Customer Retention Analytics**
-- **Problem:** Predict customer churn and estimate lifetime value (CLV) for financial services.  
-- **Approach:** Gradient boosting models on transactional/demographic data integrated into dashboards.  
-- **Technologies:** Python, Gradient Boosting, SQL, Power BI, Azure ML  
-- **Results:** Provided actionable insights for improving customer retention and maximizing lifetime value.  
-[View on GitHub](https://github.com/NnekaAsuzu/Financial_Customer_Retention_Analytics){:target="_blank"}
+#### **Supply Chain Risk Prediction & Inventory Optimization**
+- Classification pipeline (Logistic Regression → XGBoost → AutoML benchmarking)  
+- Feature engineering on supplier performance and logistics data  
+- Azure ML endpoint deployment with Power BI risk monitoring dashboard  
+[View on GitHub](https://github.com/NnekaAsuzu/supply_chain_risk_prediction){:target="_blank"}
 
-#### **Predictive HR / Workforce Analytics**
-- **Problem:** Predict employee attrition to improve retention strategies.  
-- **Approach:** Random Forest and XGBoost on HR datasets; interactive dashboards for retention insights.  
-- **Technologies:** Python, XGBoost, Random Forest, SQL, Power BI, Plotly Dash  
-- **Results:** Identified high-risk employees and guided HR teams to implement effective retention strategies.  
-[View on GitHub](https://github.com/NnekaAsuzu/Predictive_Hr_Workforce_Analytics){:target="_blank"}
+#### **Customer Value & Lifecycle Modeling**
+- Customer segmentation using K-Means clustering and PCA  
+- CLV prediction using XGBoost regression  
+- A/B testing simulation for retention strategy evaluation  
+[View on GitHub](https://github.com/NnekaAsuzu/customer_value_lifecycle_modeling){:target="_blank"}
 
----
-&nbsp;
-
-### **II. Time Series Forecasting & Simulation**
-
-These projects demonstrate modeling of time-dependent data and using simulations to predict resource demand, trends, and scenario outcomes.
-
-#### **Healthcare Resource Forecasting**
-- **Problem:** Forecast patient volume and resource demand for better hospital planning.  
-- **Approach:** ARIMA + Monte Carlo simulations; automated retraining pipelines in Azure ML.  
-- **Technologies:** Python, ARIMA, Monte Carlo, SQL, Plotly Dash, Azure ML  
-- **Results:** Enabled hospital administrators to anticipate resource needs and allocate staff efficiently.  
-[View on GitHub](https://github.com/NnekaAsuzu/Healthcare_Resource_Forecasting){:target="_blank"}
-
-#### **Healthcare Workforce & Scheduling Optimization**
-- **Problem:** Predict staffing requirements and evaluate scheduling interventions.  
-- **Approach:** Regression and Random Forest; statistical analysis using A/B testing and bootstrap.  
-- **Technologies:** Python, Random Forest, Regression, SQL, Plotly Dash, Tableau, Azure ML  
-- **Results:** Improved staffing efficiency and optimized schedules based on predictive insights.  
-[View on GitHub](https://github.com/NnekaAsuzu/Healthcare_Workforce_Optimization){:target="_blank"}
-
-#### **Epidemiology: Toronto Infection Outbreaks (2016–2025)**
-- **Problem:** Predict infection outbreaks and identify hotspots.  
-- **Approach:** Prophet models for time-series forecasting; dashboards in Power BI.  
-- **Technologies:** Python, Prophet, SQL, Power BI  
-- **Results:** Provided actionable visualizations for monitoring infection trends and informing public health decisions.  
-[View on GitHub](https://github.com/NnekaAsuzu/Epidemiology_Toronto_Outbreaks){:target="_blank"}
-
-#### **Financial Forecasting & Scenario Analysis**
-- **Problem:** Forecast financial KPIs and run “what-if” investment scenarios.  
-- **Approach:** Hybrid Prophet + ARIMA; Monte Carlo simulations; interactive Plotly Dash dashboards.  
-- **Technologies:** Python, Prophet, ARIMA, Monte Carlo, Plotly Dash  
-- **Results:** Allowed dynamic scenario analysis for strategic financial planning and investment evaluation.  
-[View on GitHub](https://github.com/NnekaAsuzu/Financial_Forecasting_Scenario){:target="_blank"}
-
+#### **House Price Prediction**
+- Regression modeling for real estate price estimation  
+- Feature engineering on housing attributes and location variables  
+- Model comparison across linear and tree-based methods  
+[View on GitHub](https://github.com/NnekaAsuzu/housepriceprediction){:target="_blank"}
 
 ---
+
 &nbsp;
-### **III. Data Visualization, Business Intelligence & App Deployment**
 
-These projects turn complex data into actionable insights via dashboards, apps, and automated workflows.
+### **II. Forecasting & Simulation Systems**
 
-#### **Operations Efficiency Dashboard**
-- **Problem:** Monitor and improve operational KPIs.  
-- **Approach:** Data cleaning and automated dashboards using Python, SQL, Power BI, and Azure Pipelines.  
-- **Results:** Streamlined reporting, enabling faster decision-making and bottleneck identification.  
-[View on GitHub](https://github.com/NnekaAsuzu/Operations_Efficiency_Dashboard){:target="_blank"}
+Projects focused on time-series modeling, uncertainty, and scenario-based decision systems.
 
-#### **Marketing A/B Testing Simulator**
-- **Problem:** Simulate marketing campaigns and analyze impact.  
-- **Approach:** Statistical tests (t-tests, ANOVA, bootstrap); automated reporting from Jupyter to HTML/PDF dashboards.  
-- **Results:** Provided actionable insights for marketing strategy optimization and campaign evaluation.  
-[View on GitHub](https://github.com/NnekaAsuzu/Marketing_AB_Testing_Simulator){:target="_blank"}
+#### **Financial Forecasting & Scenario API**
+- Forecasting using Prophet and ARIMA models  
+- Monte Carlo simulation for scenario-based analysis  
+- Flask API deployment for real-time forecasting  
+[View on GitHub](https://github.com/NnekaAsuzu/financial-forecasting-scenario-api){:target="_blank"}
 
-#### **Food Choices Streamlit App**
-- **Problem:** Explore college students’ food preferences with interactive analysis.  
-- **Approach:** Built a Streamlit app to collect, analyze, and visualize data.  
-- **Results:** Enabled users to interactively explore nutritional trends and preferences.  
+#### **Healthcare Workforce Optimization**
+- Regression and Random Forest models for demand prediction  
+- Scenario simulation for staffing and resource allocation  
+- Optimization of workforce planning under uncertainty  
+[View on GitHub](https://github.com/NnekaAsuzu/healthcare_workforce_optimization){:target="_blank"}
+
+#### **Epidemiology: Toronto Outbreak Forecasting**
+- Time-series forecasting using Prophet  
+- Trend and outbreak pattern analysis  
+- Public health insights via data visualization dashboards  
+[View on GitHub](https://github.com/NnekaAsuzu/infection_outbreak_forecasting_toronto){:target="_blank"}
+
+---
+
+&nbsp;
+
+### **III. Machine Learning & Language-Based Systems**
+
+Projects involving NLP, generative models, and interactive AI systems.
+
+#### **Memory Support Chatbot (GPT-2)**
+- Fine-tuned GPT-2 language model for conversational support  
+- Designed for context-aware text generation  
+- Applied NLP preprocessing and response generation pipeline  
+[View on GitHub](https://github.com/NnekaAsuzu/Memory-Support-Chatbot-for-Pregnant-Women){:target="_blank"}
+
+#### **Question Answering System (RoBERTa / SQuAD)**
+- Extractive QA system using transformer-based models  
+- Context-question input interface using Gradio  
+- Deployed interactive NLP inference pipeline  
+[View on GitHub](https://github.com/NnekaAsuzu/question-answering-system-using-Gradio-s-lower-level-API){:target="_blank"}
+
+#### **HuggingFace Fine-Tuning QA System**
+- Fine-tuned transformer model on SQuAD dataset  
+- Built interactive QA interface using Gradio  
+- Demonstrated end-to-end NLP training and inference workflow  
+[View on GitHub](https://github.com/NnekaAsuzu/fine-tuning-on-any-question-answering-dataset-from-HuggingFace){:target="_blank"}
+
+#### **Food Preferences Streamlit App**
+- Interactive analytics application for behavioral data exploration  
+- Streamlit-based UI for real-time visualization  
+- Applied exploratory data analysis and user interaction design  
 [View on GitHub](https://github.com/NnekaAsuzu/analyzedataset.github.io){:target="_blank"}
 
+#### **Obesity Data Analysis**
+- Exploratory data analysis of lifestyle and health factors  
+- Correlation and pattern analysis using statistical methods  
+- Visual storytelling through data visualization  
+[View on GitHub](https://github.com/NnekaAsuzu/Obesity){:target="_blank"}
+
 ---
-&nbsp;
 
-✨ For more projects, visit my [GitHub repositories](https://github.com/NnekaAsuzu){:target="_blank"}
-
+✨ More projects available on my [GitHub](https://github.com/NnekaAsuzu){:target="_blank"}
