@@ -131,11 +131,8 @@ My work spans the full modeling lifecycle from data preparation and feature engi
 
 </div>
 
-</div>
-
-</div>
-
-<div style="margin-top: 10px; text-align: center;">
+<!-- View All Projects Button -->
+<div style="margin-top: 20px; text-align: center;">
   <a href="/projects" style="
       display: inline-block;
       padding: 10px 40px;
@@ -147,9 +144,3 @@ My work spans the full modeling lifecycle from data preparation and feature engi
       min-width: 250px;
   ">View All Projects →</a>
 </div>
-
-</div>
-
-
-
-
