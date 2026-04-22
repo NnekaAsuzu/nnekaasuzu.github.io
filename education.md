@@ -27,7 +27,7 @@ A summary of my academic background, specializations, and professional developme
 ---
 &nbsp;
 
-### Professional Development & Certifications
+### **Professional Development & Certifications**
 
 - **Data Science & Machine Learning – University of Toronto**  
 Hands-on projects covering Python, SQL, Git workflows, supervised/unsupervised learning (classification, regression, clustering), data wrangling, and applied modeling techniques.

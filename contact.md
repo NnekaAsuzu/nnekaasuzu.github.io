@@ -5,13 +5,15 @@ permalink: /contact/
 ---
 
 
-# Let's Connect
+# Let’s Connect
 
-Feel free to reach out for collaborations, discussions, or opportunities related to data science, machine learning, and analytics.
+I’m open to discussing data science projects, collaboration opportunities, and applied problem-solving in machine learning and data-driven systems.
 
-Whether you’re looking to collaborate on a project or discuss ideas, I’d be happy to connect. 
- 
-I’ll get back to you as soon as possible.
+Feel free to reach out if you’d like to collaborate or explore ideas in machine learning.
+
+I typically respond promptly.
+
+
 
 <form action="https://formspree.io/f/mpwjabvo" method="POST" style="margin-top: 1.5em;">
  <div style="margin-bottom: 1em;">

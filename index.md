@@ -118,17 +118,22 @@ My work spans the full modeling lifecycle from data preparation and feature engi
 
 </div> <!-- closes flex container -->
 
-
 <!-- Featured Projects -->
 <div class="featured-projects" markdown="1" style="width: 100%;">
 
 ## Featured Projects
 <hr style="border: 1px solid #ccc; margin-top: 5px; margin-bottom: 10px;">
 
-- **[Credit Risk Prediction System](...)** – Classification (Logistic Regression → Random Forest → XGBoost), SHAP Explainability, Azure ML, Power BI  
-- **[Supply Chain Risk & Inventory Optimization](...)** – Classification (Logistic Regression → XGBoost → AutoML benchmarking), Azure ML, Power BI  
-- **[Customer Value & Lifecycle Modeling](...)** – Clustering (K-Means + PCA), Regression (XGBoost for CLV), A/B Testing, Streamlit  
-- **[Healthcare Resource Forecasting](...)** – Time Series (ARIMA) + Regression (Random Forest), Monte Carlo Simulation, Streamlit Dashboard  
+- <a href="https://github.com/NnekaAsuzu/credit_risk_loan_default_prediction" target="_blank" rel="noopener noreferrer"><b>Credit Risk Prediction System</b></a> – Classification (Logistic Regression → Random Forest → XGBoost), SHAP Explainability, Azure ML, Power BI  
+- <a href="https://github.com/NnekaAsuzu/supply_chain_risk_prediction" target="_blank" rel="noopener noreferrer"><b>Supply Chain Risk & Inventory Optimization</b></a> – Classification (Logistic Regression → XGBoost → AutoML benchmarking), Azure ML, Power BI  
+- <a href="https://github.com/NnekaAsuzu/customer_value_lifecycle_modeling" target="_blank" rel="noopener noreferrer"><b>Customer Value & Lifecycle Modeling</b></a> – Clustering (K-Means + PCA), Regression (XGBoost for CLV), A/B Testing, Streamlit  
+- <a href="https://github.com/NnekaAsuzu/healthcare_workforce_optimization" target="_blank" rel="noopener noreferrer"><b>Healthcare Workforce Optimization</b></a> – Regression and Random Forest models for demand prediction, scenario simulation, and workforce planning under uncertainty  
+
+</div>
+
+</div>
+
+</div>
 
 <div style="margin-top: 10px; text-align: center;">
   <a href="/projects" style="

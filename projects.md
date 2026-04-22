@@ -111,5 +111,5 @@ Projects involving NLP, generative models, and interactive AI systems.
 [View on GitHub](https://github.com/NnekaAsuzu/Obesity){:target="_blank"}
 
 ---
-
+&nbsp;
 ✨ More projects available on my [GitHub](https://github.com/NnekaAsuzu){:target="_blank"}
