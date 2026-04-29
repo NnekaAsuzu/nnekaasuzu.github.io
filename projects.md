@@ -7,7 +7,7 @@ permalink: /projects/
 A collection of applied data science projects focused on predictive modeling, segmentation, forecasting, and scenario analysis to support real-world decision-making.
 
 ---
-
+&nbsp;
 * **[I. Predictive Modeling & Segmentation](#i-predictive-modeling--segmentation)**
 * **[II. Forecasting & Scenario Analysis](#ii-forecasting--scenario-analysis)**
 * **[III. NLP & AI Applications](#iii-nlp--ai-applications)**
@@ -15,8 +15,6 @@ A collection of applied data science projects focused on predictive modeling, se
 Each project demonstrates how I apply data science and machine learning techniques to solve real-world problems.
 
 
-
-&nbsp;
 
 ### **I. Predictive Modeling & Segmentation**
 
