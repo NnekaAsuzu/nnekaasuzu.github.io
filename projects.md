@@ -14,7 +14,7 @@ A collection of applied data science projects focused on predictive modeling, se
 
 Each project demonstrates how I apply data science and machine learning techniques to solve real-world problems.
 
----
+
 
 &nbsp;
 
