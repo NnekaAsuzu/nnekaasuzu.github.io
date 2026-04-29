@@ -7,11 +7,11 @@ permalink: /contact/
 
 # Let’s Connect
 
-I’m open to discussing data science projects, collaboration opportunities, and applied problem-solving in machine learning and data-driven systems.
+I’m open to discussing data science roles, collaboration opportunities, and applied machine learning projects.
 
-Feel free to reach out if you’d like to collaborate or explore ideas in machine learning.
+Feel free to reach out if you’re interested in collaboration, research, or data-driven problem-solving.
 
-I typically respond promptly.
+
 
 
 

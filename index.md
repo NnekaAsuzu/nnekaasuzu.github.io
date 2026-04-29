@@ -65,7 +65,7 @@ permalink: /
 
 # Welcome!
 
-I’m Nneka Asuzu, a Data Scientist specializing in machine learning and end-to-end ML systems. I build, evaluate, and deploy models that drive real-world decision-making.
+I’m Nneka Asuzu, a Data Scientist focused on building machine learning models and end-to-end data-driven systems that support real-world decision-making.
 
 
 <a href="/assets/docs/Nneka_Asuzu_resume.pdf" target="_blank" rel="noopener noreferrer" class="btn">
@@ -76,9 +76,9 @@ I’m Nneka Asuzu, a Data Scientist specializing in machine learning and end-to-
 
 ## About Me
 
-I focus on building machine learning models that uncover patterns in data and translate them into actionable insights. 
+I build machine learning models that uncover patterns in data and translate them into actionable insights.
 
-My work spans the full modeling lifecycle from data preparation and feature engineering to model evaluation and deployment, ensuring solutions are practical, scalable, and effective in real-world decision-making.
+My work spans the full data science lifecycle from data preparation and feature engineering to model evaluation and deployment, ensuring solutions are practical, scalable, and decision-oriented.
 
 
 ---
@@ -86,11 +86,11 @@ My work spans the full modeling lifecycle from data preparation and feature engi
 
 ## Core Focus Areas
 
-- **Machine Learning:** Supervised learning (regression, classification) and unsupervised learning (clustering, dimensionality reduction) using linear models, tree-based models (Decision Trees, Random Forest, Gradient Boosting, XGBoost), SVM, KNN, and PCA.
-- **Model Deployment & ML Systems:** End-to-end ML workflows and deployment into cloud and production environments.
-- **Data Analytics & Statistical Methods:** Exploratory data analysis, hypothesis testing, A/B testing, and time series forecasting (ARIMA, Prophet).
-- **Data Visualization & Business Intelligence:** Power BI, Tableau, Plotly Dash.
-- **Tools & Platforms:** Python (Pandas, NumPy, Scikit-learn), SQL, Git, Jupyter Notebook, Azure Machine Learning, Azure SQL Database, Power BI.
+- **Machine Learning:** Supervised (classification, regression) and unsupervised learning (clustering, dimensionality reduction) using linear models, tree-based models, and SVMs.
+- **Model Deployment & ML Systems:** End-to-end machine learning workflows, including model deployment to cloud and production environments.
+- **Data Analytics & Statistical Methods:** Exploratory data analysis, hypothesis testing, A/B testing, and time series forecasting.
+- **Data Visualization & BI:** Power BI, Tableau, and Plotly Dash.
+- **Tools & Platforms:** Python, SQL, Git, Jupyter Notebook, Azure ML, Azure SQL, Power BI.
 
 ---
 
@@ -98,20 +98,17 @@ My work spans the full modeling lifecycle from data preparation and feature engi
 
 - Improved model performance over baseline through feature engineering and hyperparameter tuning across multiple projects.
 - Built and deployed machine learning models to support real-world decision-making.
-- Designed dashboards that reduced reporting and analysis time by 30%, improving decision-making efficiency. 
+- Designed dashboards that reduced reporting and analysis time by up to 30%, improving decision-making efficiency.
 - Automated data workflows to improve consistency, reduce manual effort, and enhance data reliability.
 
 
 ---
 
 ## Soft Skills
-
-- **Communication:** Translate machine learning results into clear, actionable insights that support decision-making.
-- **Problem-Solving:** Approach business problems using structured, data-driven thinking to develop effective ML solutions.
-- **Adaptability:** Quickly learn and apply new tools, models, and techniques across different projects.  
-- **Collaboration:** Collaborate effectively with cross-functional teams to deliver machine learning solutions.
-
-
+- **Communication:** Translate machine learning results into clear, actionable insights for decision-making.
+- **Problem-solving:** Apply structured, data-driven thinking to solve business problems.
+- **Adaptability:** Quickly learn and apply new tools, models, and techniques across projects.
+- **Collaboration:** Work effectively with cross-functional teams to deliver data science solutions.
 
 
 </div> <!-- closes main content block -->

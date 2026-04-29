@@ -4,98 +4,98 @@ title: Projects
 permalink: /projects/
 ---
 
-A collection of end-to-end machine learning, forecasting, and applied data science systems built to support real-world decision-making through predictive modeling, simulation, and intelligent applications.
+A collection of applied data science projects focused on predictive modeling, segmentation, forecasting, and scenario analysis to support real-world decision-making.
 
 ---
 
-* **[I. Machine Learning Systems](#i-machine-learning-systems)**
-* **[II. Forecasting & Simulation Systems](#ii-forecasting--simulation-systems)**
-* **[III. Machine Learning & Language-Based Systems](#iii-machine-learning--language-based-systems)**
+* **[I. Predictive Modeling & Segmentation](#i-predictive-modeling--segmentation)**
+* **[II. Forecasting & Scenario Analysis](#ii-forecasting--scenario-analysis)**
+* **[III. NLP & AI Applications](#iii-nlp--ai-applications)**
 
-Each project demonstrates how I design and apply machine learning systems to solve real-world problems.
+Each project demonstrates how I apply data science and machine learning techniques to solve real-world problems.
 
 ---
 
 &nbsp;
 
-### **I. Machine Learning Systems**
+### **I. Predictive Modeling & Segmentation**
 
 Projects focused on classification, regression, and structured decision modeling.
 
 #### **Credit Risk Prediction Model**
-- Classification using Logistic Regression, Random Forest, and XGBoost  
-- Feature engineering and SHAP-based model explainability  
-- Azure ML deployment with Power BI risk dashboard  
+- Built a classification model to identify high-risk borrowers using Logistic Regression, Random Forest, and XGBoost  
+- Engineered features and applied SHAP to improve model interpretability and support risk analysis  
+- Deployed model via Azure ML with an interactive Power BI dashboard for risk monitoring  
 [View on GitHub](https://github.com/NnekaAsuzu/credit_risk_loan_default_prediction){:target="_blank"}
 
 #### **Supply Chain Risk Prediction & Inventory Optimization**
-- Classification pipeline (Logistic Regression → XGBoost → AutoML benchmarking)  
-- Feature engineering on supplier performance and logistics data  
-- Azure ML endpoint deployment with Power BI risk monitoring dashboard  
+- Developed a classification pipeline to predict supplier and logistics risks using Logistic Regression and XGBoost  
+- Engineered features from supplier performance and delivery data to improve risk detection  
+- Deployed an Azure ML endpoint with a Power BI dashboard to support inventory and risk monitoring decisions  
 [View on GitHub](https://github.com/NnekaAsuzu/supply_chain_risk_prediction){:target="_blank"}
 
 #### **Customer Value & Lifecycle Modeling**
-- Customer segmentation using K-Means clustering and PCA  
-- CLV prediction using XGBoost regression  
-- A/B testing simulation for retention strategy evaluation  
+- Segmented customers using K-Means clustering and PCA to identify distinct behavioral groups  
+- Built a regression model to predict Customer Lifetime Value (CLV) using XGBoost  
+- Designed an A/B testing simulation to evaluate retention strategies and optimize customer engagement  
 [View on GitHub](https://github.com/NnekaAsuzu/customer_value_lifecycle_modeling){:target="_blank"}
 
 #### **House Price Prediction**
-- Regression modeling for real estate price estimation  
-- Feature engineering on housing attributes and location variables  
-- Model comparison across linear and tree-based methods  
+- Built regression models to estimate housing prices using linear and tree-based approaches  
+- Engineered features from property attributes and location data to improve prediction accuracy  
+- Compared model performance to identify the most effective approach for real estate valuation   
 [View on GitHub](https://github.com/NnekaAsuzu/housepriceprediction){:target="_blank"}
 
 ---
 
 &nbsp;
 
-### **II. Forecasting & Simulation Systems**
+### **II. Forecasting & Scenario Analysis**
+Projects focused on time-series modeling, forecasting, and decision-making under changing conditions.
 
-Projects focused on time-series modeling, uncertainty, and scenario-based decision systems.
 
 #### **Financial Forecasting & Scenario API**
-- Forecasting using Prophet and ARIMA models  
-- Monte Carlo simulation for scenario-based analysis  
-- Flask API deployment for real-time forecasting  
+- Developed time-series forecasting models using Prophet and ARIMA to predict financial trends  
+- Implemented Monte Carlo simulation to analyze uncertainty and evaluate multiple future scenarios  
+- Deployed a Flask API to enable real-time forecasting and scenario-based decision support   
 [View on GitHub](https://github.com/NnekaAsuzu/financial_forecasting_scenario_api){:target="_blank"}
 
 #### **Healthcare Workforce Optimization**
-- Regression and Random Forest models for demand prediction  
-- Scenario simulation for staffing and resource allocation  
-- Optimization of workforce planning under uncertainty  
+- Built regression and Random Forest models to forecast healthcare staffing demand  
+- Designed scenario analysis to evaluate staffing and resource allocation under fluctuating patient demand
+- Developed a data-driven framework to support healthcare staffing and resource planning  
 [View on GitHub](https://github.com/NnekaAsuzu/healthcare_workforce_optimization){:target="_blank"}
 
 #### **Epidemiology: Toronto Outbreak Forecasting**
-- Time-series forecasting using Prophet  
-- Trend and outbreak pattern analysis  
-- Public health insights via data visualization dashboards  
+- Developed time-series forecasting models using Prophet to analyze infection trends  
+- Identified outbreak patterns and trends to support public health insights  
+- Built Power BI dashboards to visualize trends and communicate public health insights
 [View on GitHub](https://github.com/NnekaAsuzu/infection_outbreak_forecasting_toronto){:target="_blank"}
 
 ---
 
 &nbsp;
 
-### **III. Machine Learning & Language-Based Systems**
+### **III. NLP & AI Applications**
 
-Projects involving NLP, generative models, and interactive AI systems.
+Projects involving natural language processing, generative models, and interactive AI systems.
 
 #### **Memory Support Chatbot (GPT-2)**
-- Fine-tuned GPT-2 language model for conversational support  
-- Designed for context-aware text generation  
-- Applied NLP preprocessing and response generation pipeline  
+- Fine-tuned a GPT-2 model for context-aware conversational support  
+- Designed a text generation pipeline for coherent and relevant responses  
+- Applied NLP preprocessing techniques to improve model performance  
 [View on GitHub](https://github.com/NnekaAsuzu/Memory-Support-Chatbot-for-Pregnant-Women){:target="_blank"}
 
 #### **Question Answering System (RoBERTa / SQuAD)**
-- Extractive QA system using transformer-based models  
-- Context-question input interface using Gradio  
-- Deployed interactive NLP inference pipeline  
+- Built a question-answering system using transformer-based models to extract answers directly from text  
+- Developed an interactive interface using Gradio for real-time user queries  
+- Implemented an end-to-end NLP inference pipeline  
 [View on GitHub](https://github.com/NnekaAsuzu/question-answering-system-using-Gradio-s-lower-level-API){:target="_blank"}
 
 #### **HuggingFace Fine-Tuning QA System**
-- Fine-tuned transformer model on SQuAD dataset  
-- Built interactive QA interface using Gradio  
-- Demonstrated end-to-end NLP training and inference workflow  
+- Fine-tuned a transformer model on the SQuAD dataset for question answering  
+- Built an interactive QA interface using Gradio for real-time user interaction  
+- Demonstrated an end-to-end workflow from model training to inference  
 [View on GitHub](https://github.com/NnekaAsuzu/fine-tuning-on-any-question-answering-dataset-from-HuggingFace){:target="_blank"}
 
 #### **Food Preferences Streamlit App**
@@ -105,9 +105,9 @@ Projects involving NLP, generative models, and interactive AI systems.
 [View on GitHub](https://github.com/NnekaAsuzu/analyzedataset.github.io){:target="_blank"}
 
 #### **Obesity Data Analysis**
-- Exploratory data analysis of lifestyle and health factors  
-- Correlation and pattern analysis using statistical methods  
-- Visual storytelling through data visualization  
+- Conducted exploratory data analysis on lifestyle and health-related factors  
+- Identified correlations and patterns using statistical techniques  
+- Created visualizations to communicate insights and support data-driven storytelling 
 [View on GitHub](https://github.com/NnekaAsuzu/Obesity){:target="_blank"}
 
 ---
