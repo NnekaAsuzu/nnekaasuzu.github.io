@@ -65,7 +65,9 @@ permalink: /
 
 # Welcome!
 
-I’m Nneka Asuzu, a Data Scientist focused on building machine learning models and end-to-end data-driven systems that support real-world decision-making.
+Nneka Asuzu
+
+Data Scientist focused on building machine learning models and data-driven solutions for real-world decision-making.
 
 
 <a href="/assets/docs/Nneka_Asuzu_resume.pdf" target="_blank" rel="noopener noreferrer" class="btn">
@@ -86,21 +88,20 @@ My work spans the full data science lifecycle from data preparation and feature 
 
 ## Core Focus Areas
 
-- **Machine Learning:** Supervised (classification, regression) and unsupervised learning (clustering, dimensionality reduction) using linear models, tree-based models, and SVMs.
-- **Model Deployment & ML Systems:** End-to-end machine learning workflows, including model deployment to cloud and production environments.
-- **Data Analytics & Statistical Methods:** Exploratory data analysis, hypothesis testing, A/B testing, and time series forecasting.
-- **Data Visualization & BI:** Power BI, Tableau, and Plotly Dash.
-- **Tools & Platforms:** Python, SQL, Git, Jupyter Notebook, Azure ML, Azure SQL, Power BI.
+- **Machine Learning:** Supervised learning (classification, regression) and unsupervised learning (clustering, dimensionality reduction) using tree-based models, linear models, and kernel methods.
+- **Applied Machine Learning:** Data preprocessing, feature engineering, model training, and evaluation using structured machine learning workflows.
+- **Statistical & Analytical Methods:** Exploratory data analysis, hypothesis testing, A/B testing, and time series forecasting.
+- **Data Visualization & BI:** Dashboard development and insights communication using Power BI, Tableau, and Plotly.
+- **Tools & Platforms:** Python, SQL, Git, Jupyter Notebook, Azure ML, Power BI.
 
 ---
 
 ## Achievements & Impact
 
 - Improved model performance over baseline through feature engineering and hyperparameter tuning across multiple projects.
-- Built and deployed machine learning models to support real-world decision-making.
+- Built machine learning models to support data-driven decision-making and predictive analytics workflows.
 - Designed dashboards that reduced reporting and analysis time by up to 30%, improving decision-making efficiency.
-- Automated data workflows to improve consistency, reduce manual effort, and enhance data reliability.
-
+- Automated data processing workflows to improve reliability and consistency of analytics outputs.
 
 ---
 
