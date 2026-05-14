@@ -94,7 +94,6 @@ Projects involving natural language processing, transformer models, and interact
 - Fine-tuned GPT-2 for context-aware conversational support  
 - Designed a text generation pipeline for coherent, domain-relevant responses  
 - Applied NLP preprocessing to improve model performance and response quality 
-
 [View on GitHub](https://github.com/NnekaAsuzu/Memory-Support-Chatbot-for-Pregnant-Women){:target="_blank"}
 
 
@@ -102,7 +101,6 @@ Projects involving natural language processing, transformer models, and interact
 - Built a transformer-based QA system to extract answers directly from text  
 - Developed a Gradio interface for real-time question answering  
 - Implemented an end-to-end NLP inference pipeline  
-
 [View on GitHub](https://github.com/NnekaAsuzu/question-answering-system-using-Gradio-s-lower-level-API){:target="_blank"}
 
 
@@ -110,7 +108,6 @@ Projects involving natural language processing, transformer models, and interact
 - Fine-tuned a transformer model on the SQuAD dataset for question answering tasks 
 - Built an interactive QA interface using Gradio for real-time user interaction  
 - Demonstrated an end-to-end workflow from model training to inference  
-
 [View on GitHub](https://github.com/NnekaAsuzu/fine-tuning-on-any-question-answering-dataset-from-HuggingFace){:target="_blank"}
 
 
