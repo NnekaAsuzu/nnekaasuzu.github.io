@@ -123,7 +123,6 @@ Projects involving natural language processing, transformer models, and interact
 - Conducted exploratory data analysis on health and lifestyle datasets  
 - Identified statistical correlations and behavioral patterns  
 - Created visualizations to communicate insights and support data-driven storytelling 
-
 [View on GitHub](https://github.com/NnekaAsuzu/Obesity){:target="_blank"}
 
 ---
