@@ -30,7 +30,7 @@ Developed foundations in business analytics, statistical reasoning, and data-inf
 ### **Professional Development & Certifications**
 
 
-#### Data Science & Machine Learning
+#### **Data Science & Machine Learning**
 
 - **Data Science & Machine Learning – University of Toronto**  
 Hands-on training in Python, SQL, Git, and machine learning methods including classification, regression, clustering, and feature engineering.
@@ -42,7 +42,7 @@ Applied statistical modeling, machine learning, and exploratory data analysis us
 Python-based data analysis covering data ingestion, Pandas manipulation, and exploratory analysis workflows.
 
 
-#### Cloud Computing & Artificial Intelligence
+#### **Cloud Computing & Artificial Intelligence**
 
 - **Cloud Computing & Data Science Certificate – Seneca Polytechnic**  
 Built cloud-based data workflows and applied machine learning models in cloud environments.
@@ -54,7 +54,7 @@ Explored artificial intelligence, machine learning, generative AI, Retrieval-Aug
 Applied prompt engineering for large language models, NLP concepts, and evaluation of generative AI systems.
 
 
-#### Analytics & Business Intelligence
+#### **Analytics & Business Intelligence**
 
 - **Data Analytics & Reporting with Power BI – Toronto Innovation College**  
 Built interactive dashboards using Power BI, DAX, Power Query, and relational data modeling.
