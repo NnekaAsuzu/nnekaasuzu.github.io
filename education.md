@@ -13,16 +13,19 @@ A summary of my academic background and professional development in data science
 **Degree:** Master of Science (MSc) in Management and Systems  
 **Institution:** New York University  
 **Specializations:** Database Technologies, Data Analytics, Applied Data Science  
-Focused on statistical modeling, databases, analytics, and data-driven decision-making using quantitative and systems-based approaches.
+
+Graduate studies focused on statistical modeling, databases, analytics, and data-driven decision-making.
 
 ---
 &nbsp;
-### **Bachelor’s Degree**
+### **Bachelor’s Degree (Cum Laude) **
 
-**Degree:** Bachelor of Science in Business Management & Business Administration (Cum Laude) 
+**Degree:** Bachelor of Science
+**Majors**: Business Management, Business Administration
 **Institution:** Arizona State University  
-**Focus:** Business Analytics & Quantitative Analysis  
-Developed foundations in business analytics, statistical reasoning, and data-informed decision-making.
+
+Coursework emphasized business analytics and quantitative analysis.
+
 
 ---
 &nbsp;
@@ -33,31 +36,38 @@ Developed foundations in business analytics, statistical reasoning, and data-inf
 #### **Data Science & Machine Learning**
 
 - **Data Science & Machine Learning – University of Toronto**  
-Hands-on training in Python, SQL, Git, and machine learning methods including classification, regression, clustering, and feature engineering.
+Hands-on training in Python, SQL, Git, and machine learning including classification, regression, clustering, and feature engineering.
+
+
+- **Data Analytics with Python – Ontario Tech University**  
+Python-based data analysis using Pandas, exploratory data analysis, data transformation, and analytical workflows.
 
 - **Google Advanced Data Analytics – Coursera**  
 Applied statistical modeling, machine learning, and exploratory data analysis using Python and Tableau.
 
-- **Data Analytics with Python – Ontario Tech University**  
-Python-based data analysis covering data ingestion, Pandas manipulation, and exploratory analysis workflows.
+
 
 
 #### **Cloud Computing & Artificial Intelligence**
 
 - **Cloud Computing & Data Science Certificate – Seneca Polytechnic**  
-Built cloud-based data workflows and applied machine learning models in cloud environments.
+Explored cloud-based data workflows and machine learning concepts using cloud platforms.
 
 - **AWS AI Practitioner Challenge – Amazon Web Services (AWS) / Udacity**  
-Explored artificial intelligence, machine learning, generative AI, Retrieval-Augmented Generation (RAG), prompt engineering, responsible AI, and AI solution design using AWS tools and services.
+Covered AI fundamentals, generative AI, Retrieval-Augmented Generation (RAG), prompt engineering, responsible AI, and AWS AI services.
 
 - **Prompt Engineering for AI – BusyQA**  
 Applied prompt engineering for large language models, NLP concepts, and evaluation of generative AI systems.
 
 
-#### **Analytics & Business Intelligence**
+#### **Business Intelligence & Analytics**
 
 - **Data Analytics & Reporting with Power BI – Toronto Innovation College**  
 Built interactive dashboards using Power BI, DAX, Power Query, and relational data modeling.
 
 - **Data Analytics Certificate (CBDA-aligned) – TechForward, Skills for Change**  
-Completed a structured applied analytics and data science program aligned with CBDA competencies, with hands-on work in Python, SQL, statistics, R programming, data visualization, machine learning concepts, and business case development.
+Applied analytics program covering Python, SQL, statistics, R, Tableau, machine learning concepts, and business case development.
+
+---
+
+My academic background and professional development focus on applying machine learning, statistical analysis, and data visualization to solve practical business problems and support data-driven decision-making.

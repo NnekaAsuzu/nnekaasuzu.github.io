@@ -67,7 +67,7 @@ permalink: /
 
 Nneka Asuzu
 
-Data Scientist focused on building machine learning models and data-driven solutions for real-world decision-making.
+Data Scientist applying machine learning, statistical analysis, and data visualization to solve business problems and support data-driven decision-making.
 
 
 <a href="/assets/docs/Nneka_Asuzu_resume.pdf" target="_blank" rel="noopener noreferrer" class="btn">
@@ -78,9 +78,9 @@ Data Scientist focused on building machine learning models and data-driven solut
 
 ## About Me
 
-I build machine learning models that uncover patterns in data and translate them into actionable insights.
+I apply machine learning and statistical techniques to uncover patterns in data and translate analytical findings into actionable business insights.
 
-My work spans the full data science lifecycle from data preparation and feature engineering to model evaluation and deployment, ensuring solutions are practical, scalable, and decision-oriented.
+My work includes exploratory data analysis, data preparation, feature engineering, model development, evaluation, and communicating insights through dashboards and visualizations to support business decision-making.
 
 
 ---
@@ -88,20 +88,19 @@ My work spans the full data science lifecycle from data preparation and feature 
 
 ## Core Focus Areas
 
-- **Machine Learning:** Supervised learning (classification, regression) and unsupervised learning (clustering, dimensionality reduction) using tree-based models, linear models, and kernel methods.
-- **Applied Machine Learning:** Data preprocessing, feature engineering, model training, and evaluation using structured machine learning workflows.
-- **Statistical & Analytical Methods:** Exploratory data analysis, hypothesis testing, A/B testing, and time series forecasting.
+- **Machine Learning:** Supervised (classification, regression) and unsupervised learning (clustering, dimensionality reduction) using linear and tree-based models.
+- **Applied Machine Learning:** Data preprocessing, feature engineering, model training, hyperparameter tuning, and model evaluation.
+- **Statistical & Analytical Methods:** Exploratory data analysis, descriptive statistics, hypothesis testing, A/B testing.
 - **Data Visualization & BI:** Dashboard development and insights communication using Power BI, Tableau, and Plotly.
-- **Tools & Platforms:** Python, SQL, Git, Jupyter Notebook, Azure ML, Power BI.
-
+- **Tools & Platforms:** Python, SQL, Git, Jupyter Notebook, Azure Machine Learning, AWS (project exposure), Power BI.
 ---
 
 ## Achievements & Impact
 
 - Improved model performance over baseline through feature engineering and hyperparameter tuning across multiple projects.
-- Built machine learning models to support data-driven decision-making and predictive analytics workflows.
+- Built machine learning models that supported data-driven business decisions across multiple analytical projects.
 - Designed dashboards that reduced reporting and analysis time by up to 30%, improving decision-making efficiency.
-- Automated data processing workflows to improve reliability and consistency of analytics outputs.
+- Developed reusable analytical workflows that improved consistency and efficiency of data analysis.
 
 ---
 
@@ -122,10 +121,11 @@ My work spans the full data science lifecycle from data preparation and feature 
 ## Featured Projects
 <hr style="border: 1px solid #ccc; margin-top: 5px; margin-bottom: 10px;">
 
-- <a href="https://github.com/NnekaAsuzu/credit_risk_loan_default_prediction" target="_blank" rel="noopener noreferrer"><b>Credit Risk Prediction System</b></a> – Classification (Logistic Regression → Random Forest → XGBoost), SHAP Explainability, Azure ML, Power BI  
+- <a href="https://github.com/NnekaAsuzu/credit_risk_loan_default_prediction" target="_blank" rel="noopener noreferrer"><b>Credit Risk Prediction</b></a> – Classification (Logistic Regression → Random Forest → XGBoost), SHAP Model Explainability, Azure ML, Power BI  
 - <a href="https://github.com/NnekaAsuzu/supply_chain_risk_prediction" target="_blank" rel="noopener noreferrer"><b>Supply Chain Risk & Inventory Optimization</b></a> – Classification (Logistic Regression → XGBoost → AutoML benchmarking), Azure ML, Power BI  
 - <a href="https://github.com/NnekaAsuzu/customer_value_lifecycle_modeling" target="_blank" rel="noopener noreferrer"><b>Customer Value & Lifecycle Modeling</b></a> – Clustering (K-Means + PCA), Regression (XGBoost for CLV), A/B Testing, Streamlit  
-- <a href="https://github.com/NnekaAsuzu/healthcare_workforce_optimization" target="_blank" rel="noopener noreferrer"><b>Healthcare Workforce Optimization</b></a> – Regression and Random Forest models for demand prediction, scenario simulation, and workforce planning under uncertainty  
+- <a href="https://github.com/NnekaAsuzu/healthcare_workforce_optimization" target="_blank" rel="noopener noreferrer"><b>Healthcare Workforce Analytics</b></a> – Regression and Random Forest models for healthcare demand prediction and staffing analysis.
+
 
 </div>
 

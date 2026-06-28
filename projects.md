@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-A collection of applied data science projects focused on predictive modeling, segmentation, forecasting, and scenario analysis to support real-world decision-making.
+A collection of applied data science projects focused on predictive modeling, segmentation, forecasting, and machine learning analysis to support data-driven decision-making.
 
 ---
 &nbsp;
@@ -17,36 +17,35 @@ Each project demonstrates applied machine learning and data science techniques a
 
 ### **I. Predictive Modeling & Segmentation**
 
-Projects focused on classification, regression, and structured decision modeling.
+Projects focused on classification, regression, clustering, and customer/business analytics.
 
 #### **Credit Risk Prediction Model**
-- Developed a supervised learning pipeline for credit risk classification using Logistic Regression, Random Forest, and XGBoost  
-- Engineered predictive features and applied SHAP for model interpretability and risk factor analysis  
-- Deployed model via Azure ML with an interactive Power BI dashboard for risk monitoring  
-
+- Built classification models using Logistic Regression, Random Forest, and XGBoost to predict loan default risk
+- Engineered financial risk features and applied SHAP for model interpretation
+- Evaluated model performance using ROC-AUC, precision, recall, and F1-score
   [View on GitHub](https://github.com/NnekaAsuzu/credit_risk_loan_default_prediction){:target="_blank"}
 
 
-#### **Supply Chain Risk Prediction & Inventory Optimization**
-- Developed a classification pipeline to predict supplier and logistics risk using Logistic Regression and XGBoost  
-- Engineered features from operational and supplier performance data to improve risk detection  
-- Deployed an Azure ML endpoint integrated with Power BI for real-time monitoring and decision support 
+#### **Supply Chain Risk Prediction**
+- Built classification models using Logistic Regression and XGBoost to predict supplier delay risk
+- Engineered supplier performance features to improve predictive performance
+- Benchmarked model performance to support supplier risk assessment and inventory planning
 
   [View on GitHub](https://github.com/NnekaAsuzu/supply_chain_risk_prediction){:target="_blank"}
 
 
-#### **Customer Value & Lifecycle Modeling**
-- Applied K-Means clustering and PCA for customer segmentation and behavioral pattern discovery  
-- Built a regression model to estimate Customer Lifetime Value (CLV) using XGBoost  
-- Designed an A/B testing simulation framework to evaluate retention strategies and customer engagement 
+#### **Customer Value & Lifecycle Modeling** 
+- Applied K-Means clustering and PCA for customer segmentation
+- Built an XGBoost regression model to estimate Customer Lifetime Value (CLV)
+- Designed an A/B testing simulation framework to evaluate customer retention strategies
 
   [View on GitHub](https://github.com/NnekaAsuzu/customer_value_lifecycle_modeling){:target="_blank"}
 
 
 #### **House Price Prediction**
-- Developed regression models using linear and tree-based approaches for housing price estimation  
-- Engineered location and property-based features to improve predictive performance  
-- Evaluated multiple models to determine optimal approach for real estate valuation 
+- Built regression models using linear and tree-based algorithms to predict housing prices
+- Performed feature engineering using property, geographic, and temporal variables
+- Compared model performance using cross-validation and regression metrics
 
   [View on GitHub](https://github.com/NnekaAsuzu/housepriceprediction){:target="_blank"}
 
@@ -55,30 +54,32 @@ Projects focused on classification, regression, and structured decision modeling
 
 &nbsp;
 
-### **II. Forecasting & Scenario Analysis**
+### **II. Time Series & Predictive Analytics**
 
-Projects focused on time-series forecasting, uncertainty modeling, and decision support systems.
+Projects focused on forecasting, time-series analysis, and scenario-based decision support.
 
-#### **Financial Forecasting & Scenario API**
-- Developed time-series forecasting models using Prophet and ARIMA to predict financial trends  
-- Implemented Monte Carlo simulation to quantify uncertainty and evaluate multiple future scenarios  
-- Built and deployed a Flask API for real-time forecasting and scenario-based decision support 
+#### **Financial Forecasting**
+- Developed time-series forecasting models using Prophet, ARIMA, and regression techniques to forecast financial market trends
+- Engineered temporal features including lag variables, rolling statistics, and volatility indicators
+- Performed scenario analysis to evaluate potential future market outcomes
+
 
   [View on GitHub](https://github.com/NnekaAsuzu/financial_forecasting_scenario_api){:target="_blank"}
 
 
-#### **Healthcare Workforce Optimization**
-- Built regression and Random Forest models to forecast healthcare staffing demand  
-- Designed scenario analysis to evaluate resource allocation under varying patient demand conditions  
-- Developed a data-driven framework to support workforce planning and operational decisions
+#### **Healthcare Workforce**
+- Built regression, Random Forest, and ARIMA models to forecast patient demand and estimate staffing requirements
+- Applied scenario analysis and Monte Carlo simulation to evaluate staffing needs under varying demand conditions
+- Designed a decision-support framework for workforce planning and resource allocation
 
   [View on GitHub](https://github.com/NnekaAsuzu/healthcare_workforce_optimization){:target="_blank"}
 
 
-#### **Epidemiology: Toronto Outbreak Forecasting**
-- Developed time-series forecasting models using Prophet to analyze infection trends  
-- Identified outbreak patterns to support public health insights and decision-making  
-- Built Power BI dashboards for visualization of epidemiological trends  
+#### **Toronto Infection Outbreak Forecasting**
+- Developed Prophet time-series forecasting models to analyze infection outbreak trends across healthcare facilities
+- Built interactive Power BI dashboards to visualize outbreak patterns and support public health decision-making
+- Applied scenario analysis to support healthcare resource planning under projected outbreak scenarios
+
 
   [View on GitHub](https://github.com/NnekaAsuzu/infection_outbreak_forecasting_toronto){:target="_blank"}
 
@@ -86,46 +87,52 @@ Projects focused on time-series forecasting, uncertainty modeling, and decision 
 
 &nbsp;
 
-### **III. NLP & AI Applications**
+### **III. Natural Language Processing & Generative AI**
 
-Projects involving natural language processing, transformer models, and interactive AI systems.
+Projects involving transformer models, natural language processing (NLP), and generative AI applications.
 
 #### **Memory Support Chatbot (GPT-2)**
-- Fine-tuned GPT-2 for context-aware conversational support  
-- Designed a text generation pipeline for coherent, domain-relevant responses  
-- Applied NLP preprocessing to improve model performance and response quality 
+- Developed a GPT-2–based chatbot to provide context-aware support for pregnancy-related memory concerns
+- Applied NLP preprocessing and language model fine-tuning to improve response quality and relevance
+- Built interactive chatbot interfaces using Gradio and Streamlit for user interaction
 
   [View on GitHub](https://github.com/NnekaAsuzu/Memory-Support-Chatbot-for-Pregnant-Women){:target="_blank"}
 
 
 #### **Question Answering System (RoBERTa / SQuAD)**
-- Built a transformer-based QA system to extract answers directly from text  
-- Developed a Gradio interface for real-time question answering  
-- Implemented an end-to-end NLP inference pipeline  
+- Developed a transformer-based question answering application using the RoBERTa SQuAD2 model
+- Built an interactive Gradio interface for real-time question answering
+- Implemented an inference workflow using Hugging Face Transformers to extract answers from user-provided context
 
   [View on GitHub](https://github.com/NnekaAsuzu/question-answering-system-using-Gradio-s-lower-level-API){:target="_blank"}
 
 
-#### **HuggingFace Fine-Tuning QA System**
-- Fine-tuned a transformer model on the SQuAD dataset for question answering tasks 
-- Built an interactive QA interface using Gradio for real-time user interaction  
-- Demonstrated an end-to-end workflow from model training to inference 
+#### **Hugging Face Fine-Tuning QA System**
+- Fine-tuned a Hugging Face transformer model on the SQuAD dataset for extractive question answering
+- Developed a Gradio application to interact with the fine-tuned model using custom context and questions
+- Demonstrated the end-to-end workflow from transformer fine-tuning to interactive inference using Gradio
  
   [View on GitHub](https://github.com/NnekaAsuzu/fine-tuning-on-any-question-answering-dataset-from-HuggingFace){:target="_blank"}
 
 
+---
+
+&nbsp;
+
+### **IV. Data Analysis & Visualization**
+
 #### **Food Preferences Streamlit App**
-- Built an interactive Streamlit application for behavioral data exploration  
-- Designed real-time visualization components for user interaction  
-- Applied exploratory data analysis and UX-focused analytics design 
+- Developed an interactive Streamlit application to explore food choice and nutrition survey data
+- Built interactive visualizations and filtering features to analyze demographic and behavioral patterns
+- Applied exploratory data analysis to communicate insights through an accessible, user-friendly interface
 
   [View on GitHub](https://github.com/NnekaAsuzu/analyzedataset.github.io){:target="_blank"}
 
 
 #### **Obesity Data Analysis**
-- Conducted exploratory data analysis on health and lifestyle datasets  
-- Identified statistical correlations and behavioral patterns  
-- Created visualizations to communicate insights and support data-driven storytelling 
+- Conducted exploratory data analysis on obesity, lifestyle, and demographic data to identify key behavioral patterns
+- Performed statistical analyses using ANOVA, Cramér's V, and correlation analysis to evaluate relationships between health and lifestyle factors
+- Created accessible visualizations and communicated data-driven insights to support public health awareness and decision-making
 
   [View on GitHub](https://github.com/NnekaAsuzu/Obesity){:target="_blank"}
 
