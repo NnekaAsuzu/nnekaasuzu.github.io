@@ -21,7 +21,7 @@ A summary of my academic background and professional development in data science
 
 **Degree:** Bachelor of Science  
 **Institution:** Arizona State University  
-**Majors:** Business Management, Business Administration (Cum Laude)
+**Majors:** Business Management, Business Administration
 *Coursework emphasized business analytics and quantitative analysis.*
 
 ---
