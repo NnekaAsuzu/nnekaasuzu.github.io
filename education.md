@@ -20,10 +20,9 @@ A summary of my academic background and professional development in data science
 ### **Bachelor’s Degree (Cum Laude)**
 
 **Degree:** Bachelor of Science
-**Majors:** Business Management, Business Administration
 **Institution:** Arizona State University  
+**Majors:** Business Management, Business Administration 
 *Coursework emphasized business analytics and quantitative analysis.*
-
 
 ---
 &nbsp;
@@ -42,7 +41,6 @@ Python-based data analysis using Pandas, exploratory data analysis, data transfo
 
 - **Google Advanced Data Analytics – Coursera**  
 Applied statistical modeling, machine learning, and exploratory data analysis using Python and Tableau.
-
 
 
 
