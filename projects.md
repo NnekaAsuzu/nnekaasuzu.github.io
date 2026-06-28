@@ -8,9 +8,13 @@ A collection of applied data science projects focused on predictive modeling, se
 
 ---
 &nbsp;
+
+## Project Categories
+
 * **[I. Predictive Modeling & Segmentation](#i-predictive-modeling--segmentation)**
-* **[II. Forecasting & Scenario Analysis](#ii-forecasting--scenario-analysis)**
-* **[III. NLP & AI Applications](#iii-nlp--ai-applications)**
+* **[II. Time Series & Predictive Analytics](#ii-time-series--predictive-analytics)**
+* **[III. Natural Language Processing & Generative AI](#iii-natural-language-processing--generative-ai)**
+* **[IV. Data Analysis & Visualization](#iv-data-analysis--visualization)**
 
 Each project demonstrates applied machine learning and data science techniques across structured and unstructured data problems.
 

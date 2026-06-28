@@ -93,6 +93,7 @@ My work includes exploratory data analysis, data preparation, feature engineerin
 - **Statistical & Analytical Methods:** Exploratory data analysis, descriptive statistics, hypothesis testing, A/B testing.
 - **Data Visualization & BI:** Dashboard development and insights communication using Power BI, Tableau, and Plotly.
 - **Tools & Platforms:** Python, SQL, Git, Jupyter Notebook, Azure Machine Learning, AWS (project exposure), Power BI.
+
 ---
 
 ## Achievements & Impact
