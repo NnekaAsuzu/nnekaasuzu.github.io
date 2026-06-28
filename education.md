@@ -13,16 +13,16 @@ A summary of my academic background and professional development in data science
 **Degree:** Master of Science (MSc) in Management and Systems  
 **Institution:** New York University  
 **Specializations:** Database Technologies, Data Analytics, Applied Data Science  
-Graduate studies focused on statistical modeling, databases, analytics, and data-driven decision-making.
+*Graduate studies focused on statistical modeling, databases, analytics, and data-driven decision-making.*
 
 ---
 &nbsp;
 ### **Bachelor’s Degree (Cum Laude)**
 
 **Degree:** Bachelor of Science
-**Majors**: Business Management, Business Administration
+**Majors:** Business Management, Business Administration
 **Institution:** Arizona State University  
-Coursework emphasized business analytics and quantitative analysis.
+*Coursework emphasized business analytics and quantitative analysis.*
 
 
 ---
